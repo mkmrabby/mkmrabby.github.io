@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a senior scientist at FedEx Dataworks, where I specialize in developing AI-driven solutions for logistics and operational optimization. My work spans statistical modeling, machine learning, time-series forecasting, computer vision, and large-scale system integration using <a href="https://aws.amazon.com/">AWS</a>, <a href="https://azure.microsoft.com/en-us">Azure</a> and <a href="https://www.databricks.com/">Databricks</a>. I have led the design of end-to-end solutions including recommendation systems, root-cause diagnostics for package loss, and product variant identification, with a strong focus on deployment scalability and API-based services.
+I am a senior scientist at <a href="https://www.fedex.com/en-us/dataworks.html">FedEx Dataworks</a>, where I specialize in developing AI-driven solutions for logistics and operational optimization. My work spans statistical modeling, machine learning, time-series forecasting, computer vision, and large-scale system integration using <a href="https://aws.amazon.com/">AWS</a>, <a href="https://azure.microsoft.com/en-us">Azure</a>, and <a href="https://www.databricks.com/">Databricks</a>. I have led the design of end-to-end solutions, including recommendation systems, root-cause diagnostics for package loss, and product variant identification, with a strong focus on deployment scalability and API-based services.
 </p>
 
 <p align="justify">
