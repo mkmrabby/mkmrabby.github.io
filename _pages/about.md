@@ -9,13 +9,24 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a senior research scientist in the Applied Research on AI Applications team at NVIDIA. We work on foundation models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
-</p>
+I am a senior scientist at FedEx Dataworks, where I specialize in developing AI-driven solutions for logistics and operational optimization. My work spans statistical modeling, machine learning, time-series forecasting, computer vision, and large-scale system integration using Azure and Databricks. I have led the design of end-to-end solutions including recommendation systems, root-cause diagnostics for package loss, and product variant identification, with a strong focus on deployment scalability and API-based services.
 
+Prior to FedEx, I worked at Crowley, building machine learning models for ship monitoring and financial forecasting, and at Omdena-Optimiz, applying deep learning for cargo claim predictions using object detection models like YOLOv5 and MobileNet-SSD.
+
+I completed my Ph.D. in Electrical and Computer Engineering from North Carolina A&T State University, where I was a Graduate Research Assistant in the ACCESS Lab. My doctoral research focused on robotics, specifically human-robot collaboration, cognitive modeling, and autonomous motion control using AI, ML, and deep learning. My contributions included developing dynamic control systems, visual perception interfaces, and performance-aware autonomy frameworks for humanoid robots.
+
+Earlier in my career, I served as an Assistant Engineer at the Power Grid Company of Bangladesh (PGCB) Ltd., focusing on high-voltage transmission systems and fault diagnostics, and as a Balance of Plant Engineer at KEPCO-KPS, where I worked on automation in water treatment systems for power generation.
+
+I hold an M.Sc. in Information and Communication Technology (ICT) and a B.Sc. in Electrical and Electronic Engineering (EEE) from BUET, with research specializations in wireless power transfer, sensor networks, and power system control.
+
+<!-- I am a senior scientist in the Applied Research on AI Applications team at NVIDIA. We work on foundation models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+-->
+</p>
+<!-- 
 <p align="justify">
 I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and Walmart Labs during my PhD.
 </p>
-
+-->
 <!-- 
 <p align="justify">
   Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. I like to solve problems to improve my programming skills in 
