@@ -86,9 +86,9 @@ author:
   employer         : 
   location         : "High Point, NC, USA"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NCivJ6sAAAAJ"
   email            : "md.rabby@fedex.com"
-  researchgate     : "https://www.researchgate.net/profile/Wasi_Ahmad3"
+  researchgate     : "https://www.researchgate.net/profile/Md_Khurram_Monir_Rabby?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,21 +102,21 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "ahmadwasi"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/md-khurram-monir-rabby-473053109"
+  orcid            : "https://orcid.org/0000-0003-3081-6388"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 5352399/wasi-ahmad
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ahmadwasi"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://dblp.org/pers/hd/a/Ahmad:Wasi_Uddin"
+  dblp             : "https://dblp.org/pid/217/9553.html"
   wikipedia        :
-  semanticscholar  : "https://www.semanticscholar.org/author/Wasi-Uddin-Ahmad/38123220"
+  semanticscholar  : "https://www.semanticscholar.org/author/Md-Khurram-Monir-Rabby/98612246"
 
 
 # Reading Files
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
