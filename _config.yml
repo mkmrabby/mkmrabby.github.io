@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Academic Homepage"
 title_separator          : "-"
-name                     : &name "Wasi Uddin Ahmad"
+name                     : &name "Md Khurram Monir Rabby"
 description              : &description "personal description"
-url                      : "https://wasiahmad.github.io"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mkmrabby.github.io"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "wasiahmad/wasiahmad.github.io"
+repository               : "mkmrabby/mkmrabby.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wasi Uddin Ahmad"
-  avatar           : "wasiahmad.png"
-  bio              : "Senior Research Scientist at NVIDIA"
+  name             : "Md Khurram Monir Rabby"
+  avatar           : "mkmrabby.png"
+  bio              : "Senior Scientist at FedEx Dataworks"
   employer         : 
-  location         : "Santa Clara, CA, USA"
+  location         : "High Point, NC, USA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
-  email            : "wasiahmad@ucla.edu"
+  email            : "md.rabby@fedex.com"
   researchgate     : "https://www.researchgate.net/profile/Wasi_Ahmad3"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wasiahmad"
+  github           : "mkmrabby"
   google_plus      :
   keybase          :
   instagram        :
