@@ -21,14 +21,14 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/AWS.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/Crowley.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Amazon Web Services (AWS), AI Labs</b></font><br/>
-        Applied Scientist [October 2021 – May 2024]<br/>
-        Location: Santa Clara, California<br/>
-        Managers: <a href="https://www.linkedin.com/in/parminder-bhatia" target="_blank">Parminder Bhatia</a>, <a href="https://www.linkedin.com/in/xiaofei-ma-b3627928" target="_blank">Xiaofei Ma</a><br/>
-        Lab: <a href="https://aws.amazon.com/ai/" target="_blank">AWS AI Labs</a>
+        <font color="brown" size="5"><b>Engineering & IT Services, Crowley</b></font><br/>
+        Data Scientist [January 2022 – May 2022]<br/>
+        Location: Remote<br/>
+        Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a>, Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Harsh Vora</a>,<br/>
+        Lab: <a href="https://www.crowley.com/" target="_blank">Crowley Engineering & IT Services</a>
       </span>
     </td>
   </tr>
