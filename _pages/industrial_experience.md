@@ -9,7 +9,7 @@ redirect_from:
 
 <table class="table__tablenospace">
   <tr>
-    <td class="table__tablenospace"><img src='/images/FedEx_Dataworks.png' style='height:100px;width:200px'></td>
+    <td class="table__tablenospace"><img src='/images/FedEx_Dataworks.png' style='height:100px;width:250px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Dataworks, FedEx</b></font><br/>
