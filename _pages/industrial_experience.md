@@ -82,7 +82,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/kepco_kps.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/kepco_kps.png' style='height:200px;width:200px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>KEPCO Plant Service & Engineering Co. (KEPCO KPS) Ltd.</b></font><br/>
