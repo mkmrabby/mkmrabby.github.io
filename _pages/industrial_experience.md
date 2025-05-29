@@ -38,7 +38,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>DYversity</b></font><br/>
-        AI Researcher & Engineer [January 2022 – February 2022]<br/>
+        AI Researcher & Engineer (Part-time) [January 2022 – February 2022]<br/>
         Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/renediaz-ux/" target="_blank">René Diaz</a><br/>
         Lab: <a href="https://www.f6s.com/company/diyversity" target="_blank">DYversity</a>
@@ -46,14 +46,13 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/Meta.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/Omdena.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Meta AI</b></font><br/>
-        Research Intern [June 2020 – September 2020]<br/>
-        Manager: <a href="https://www.linkedin.com/in/yasharmehdad/" target="_blank">Yashar Mehdad</a><br/>
-        Mentor: <a href="https://ai.facebook.com/people/haoran-li/" target="_blank">Haoran Li</a><br/>
-        Lab: <a href="https://ai.meta.com/" target="_blank">Meta AI</a>
+        <font color="brown" size="5"><b>Omdena</b></font><br/>
+        Machine Learning Engineer (Intern) [May 2021 – July 2021]<br/>
+        Manager/CEO: <a href="https://www.linkedin.com/in/mitrar/" target="_blank">Rudradeb Mitra</a><br/>
+        Lab: <a href="https://www.omdena.com/" target="_blank">Omdena</a>
       </span>
     </td>
   </tr>
