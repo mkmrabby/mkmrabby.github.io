@@ -27,7 +27,8 @@ redirect_from:
         <font color="brown" size="5"><b>Engineering & IT Services, Crowley</b></font><br/>
         Data Scientist [January 2022 – May 2022]<br/>
         Location: Remote<br/>
-        Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a>, Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Harsh Vora</a>,<br/>
+        Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a>, 
+        Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Harsh Vora</a><br/>
         Lab: <a href="https://www.crowley.com/" target="_blank">Crowley Engineering & IT Services</a>
       </span>
     </td>
