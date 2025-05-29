@@ -12,7 +12,7 @@ redirect_from:
     <td class="table__tablenospace"><img src='/images/FedEx_Dataworks.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>FedEx, Dataworks</b></font><br/>
+        <font color="brown" size="5"><b>Dataworks, FedEx</b></font><br/>
         Senior Scientist [May 2022 – Present]<br/>
         Location: Remote <br/>
         Manager: <a href="https://www.linkedin.com/in/dave-ason-60a0109/" target="_blank">David Ason</a><br/>
