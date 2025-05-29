@@ -63,21 +63,20 @@ redirect_from:
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Power Grid Company of Bangladesh (PGCB) Limited</b></font><br/>
         Assistant Engineer [May 2017 – August 2017]<br/>
-        Location: Meghnaghat, Narayangonj, Bangladesh <br/>          
+        Location: Dhaka, Bangladesh <br/>          
         Manager: <a href="https://www.linkedin.com/in/refat-bin-sayed-47029a3a/">Refat Bin Sayed</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/sahbun-nur-b098258/"_blank">Sahbun Nur</a>, 
         <a href="https://www.linkedin.com/in/md-zubayer-alvi-50945752/">Md Zubayer Alvi</a>,
         Jamil Sir, Hasan<br/>
         Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a>
         Assistant Engineer [June 2014 – May 2017]<br/>
-        Location: Dhaka, Bangladesh        
+        Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/prodip-kumar-sutradhar-726147137/"_blank">Prodip Kumar Sutradhar</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/faizul-kabir-97a8571b2/"_blank">Faizul Kabir</a>, Md Afsar Uz Zaman Neon, 
         <a href="https://www.linkedin.com/in/asaduzzamanpgcb/">Asaduzzaman Asad</a>,
         <a href="https://www.linkedin.com/in/mohammad-shariful-alam-70b58235/">Mohammad Shariful Alam</a>,
         <a href="https://www.linkedin.com/in/md-zakaria-0a56691b2/">Md Zakaria</a>,        
         Ibrahim Ahmed, Md Jahirul Islam<br/>
-        Assistant Engineer [June 2014 – May 2017]<br/>
         Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Grid Operation & Maintenance, PGCB Ltd</a>        
       </span>
     </td>
