@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Md Khurram Monir Rabby"
-description              : &description "personal description"
+description              : &description "Robotics | Artificial Intelligence | System Automation & Control | Power Engineering"
 url                      : "https://mkmrabby.github.io"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mkmrabby/mkmrabby.github.io"
