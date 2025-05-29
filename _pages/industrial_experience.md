@@ -27,7 +27,7 @@ redirect_from:
         <font color="brown" size="5"><b>Engineering & IT Services, Crowley</b></font><br/>
         Data Scientist [January 2022 – May 2022]<br/>
         Location: Remote<br/>
-        Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a>, 
+        Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a><br/> 
         Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Harsh Vora</a><br/>
         Lab: <a href="https://www.crowley.com/" target="_blank">Crowley Engineering & IT Services</a>
       </span>
@@ -68,7 +68,7 @@ redirect_from:
         Mentor: <a href="https://www.linkedin.com/in/sahbun-nur-b098258/" target="_blank">Sahbun Nur</a>, 
         <a href="https://www.linkedin.com/in/md-zubayer-alvi-50945752/" target="_blank">Md Zubayer Alvi</a>,
         Jamil Sir, Hasan<br/>
-        Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a>
+        Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a><br/>
         Assistant Engineer [June 2014 – May 2017]<br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/prodip-kumar-sutradhar-726147137/" target="_blank">Prodip Kumar Sutradhar</a><br/>
@@ -89,6 +89,9 @@ redirect_from:
         Balance of Plant Engineer (BOPE) [September 2013 – June 2014]<br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/youngho-kim-a73a57237/">Youngho Kim</a><br/>
+        Mentor: <a href="https://www.linkedin.com/in/rokan-uddin-1373862a/" target="_blank">Rokan Uddin</a>, 
+        <a href="https://www.linkedin.com/in/saiful-islam-a3398940/" target="_blank">Saiful Islam</a>        
+        <br/>
         Plant: <a href="https://summitpowerinternational.com/summit-meghnaghat-power-company-limited" target="_blank">Summit Meghnaghat Power Company Limited (337/305 MW Dual Fuel CCPP)</a>
       </span>
     </td>
