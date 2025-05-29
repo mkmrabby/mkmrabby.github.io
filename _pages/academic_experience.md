@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Professional Experience"
-permalink: /experience/
+title: "Academic Experience"
+permalink: /academic_experience/
 author_profile: true
 redirect_from:
   - /resume
