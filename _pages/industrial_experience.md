@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Industrial Experience"
-permalink: /experience/
+permalink: /industrial_experience/
 author_profile: true
 redirect_from:
   - /resume
