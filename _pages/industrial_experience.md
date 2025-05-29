@@ -51,6 +51,7 @@ redirect_from:
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Omdena</b></font><br/>
         Machine Learning Engineer (Intern) [May 2021 – July 2021]<br/>
+        Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/mitrar/" target="_blank">Rudradeb Mitra</a><br/>
         Lab: <a href="https://www.omdena.com/" target="_blank">Omdena AI Research & Development</a>
       </span>
