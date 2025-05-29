@@ -34,14 +34,13 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/UCLA.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/DYversity.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>University of California, Los Angeles (UCLA)</b></font><br/>
-        Graduate Research Assistant [August 2017 – September 2021]<br/>
-        Teaching Assistant [January 2019 – June 2019]<br/>
-        Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a><br/>
-        Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
+        <font color="brown" size="5"><b>DYversity (UCLA)</b></font><br/>
+        AI Researcher & Engineer [January 2022 – February 2022]<br/>
+        Manager/CEO: <a href="https://www.linkedin.com/in/renediaz-ux/" target="_blank">René Diaz</a><br/>
+        Lab: <a href="https://www.f6s.com/company/diyversity" target="_blank">DYversity</a>
       </span>
     </td>
   </tr>
