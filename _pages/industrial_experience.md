@@ -9,14 +9,14 @@ redirect_from:
 
 <table class="table__tablenospace">
   <tr>
-    <td class="table__tablenospace"><img src='/images/NVIDIA.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/FedEx_Dataworks.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>NVIDIA, Conversational AI Research</b></font><br/>
-        Senior Research Scientist [May 2024 – Present]<br/>
-        Location: Santa Clara, California<br/>
-        Manager: <a href="https://developer.nvidia.com/blog/author/bginsburg/" target="_blank">Boris Ginsburg</a><br/>
-        Lab: <a href="https://research.nvidia.com/labs/conv-ai/" target="_blank">NVIDIA Conversational AI</a>
+        <font color="brown" size="5"><b>FedEx, Dataworks</b></font><br/>
+        Senior Scientist [May 2022 – Present]<br/>
+        Location: Remote <br/>
+        Manager: <a href="https://www.linkedin.com/in/dave-ason-60a0109/" target="_blank">David Ason</a><br/>
+        Lab: <a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">FedEx Dataworks</a>
       </span>
     </td>
   </tr>
