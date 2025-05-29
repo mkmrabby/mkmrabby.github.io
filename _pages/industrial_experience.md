@@ -34,11 +34,12 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/DYversity.png' style='height:100px;width:50px'></td>
+    <td class="table__tablenospace"><img src='/images/DYversity.png' style='height:150px;width:80px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>DYversity</b></font><br/>
         AI Researcher & Engineer [January 2022 – February 2022]<br/>
+        Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/renediaz-ux/" target="_blank">René Diaz</a><br/>
         Lab: <a href="https://www.f6s.com/company/diyversity" target="_blank">DYversity</a>
       </span>
