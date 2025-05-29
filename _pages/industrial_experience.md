@@ -82,56 +82,14 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/MSR.png' style='height:100px;width:100px'></td>
+    <td class="table__tablenospace"><img src='/images/kepco_kps.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Microsoft Research</b></font><br/>
-        Research Intern [June 2018 – September 2018]<br/>
-        Manager: <a href="http://lowrank.net/nikos/" target="_blank">Nikos Karampatziakis</a><br/>
-        Lab: <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft Research, Redmond</a>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <td class="table__tablenospace"><img src='/images/UVA.png' style='height:100px;width:100px'></td>
-    <td class="table__tablenospace" width="600px">
-      <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>University of Virginia (UVA)</b></font><br/>
-        Graduate Research Assistant [August 2016 – May 2017]<br/>
-        Graduate Teaching Assistant [August 2015 – May 2016]<br/>
-        Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <td class="table__tablenospace"><img src='/images/Walmart.png' style='height:100px;width:100px'></td>
-    <td class="table__tablenospace" width="600px">
-      <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Walmart Labs</b></font><br/>
-        Research Intern [June 2016 – August 2016]<br/>
-        Manager: <a href="https://www.linkedin.com/in/gregfavinger/" target="_blank">Greg Favinger</a><br/>
-        Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/" target="_blank">Colin Morse</a><br/>
-        Lab: <a href="https://www.walmartlabs.com/" target="_blank">Walmart Labs</a>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <td class="table__tablenospace"><img src='/images/AUST.png' style='height:100px;width:100px'></td>
-    <td class="table__tablenospace" width="600px">
-      <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Ahsanullah University of Science and Technology (AUST)</b></font><br/>
-        Lecturer [November 2013 – August 2015]<br/>
-        Department: <a href="http://aust.edu/cse/index.htm" target="_blank">Computer Science and Engineering</a>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <td class="table__tablenospace"><img src='/images/REVE.png' style='height:100px;width:100px'></td>
-    <td class="table__tablenospace" width="600px">
-      <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>REVE Systems</b></font><br/>
-        Software Development Engineer [August 2013 – October 2013]<br/>
-        Junior Software Development Engineer [February 2013 – August 2013]
+        <font color="brown" size="5"><b>KEPCO Plant Service & Engineering Co. (KEPCO KPS) Ltd.</b></font><br/>
+        Balance of Plant Engineer (BOPE) [September 2013 – June 2014]<br/>
+        Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
+        Manager: <a href="https://www.linkedin.com/in/youngho-kim-a73a57237/">Youngho Kim</a><br/>
+        Plant: <a href="https://summitpowerinternational.com/summit-meghnaghat-power-company-limited" target="_blank">Summit Meghnaghat Power Company Limited (337/305 MW Dual Fuel CCPP)</a>
       </span>
     </td>
   </tr>
