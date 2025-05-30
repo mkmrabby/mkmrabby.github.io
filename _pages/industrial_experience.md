@@ -34,7 +34,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/DIYversity.png' style='height:150px;width:80px'></td>
+    <td class="table__tablenospace"><img src='/images/DIYversity.png' style='height:100px;width:250px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>DIYversity</b></font><br/>
