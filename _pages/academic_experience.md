@@ -15,7 +15,7 @@ redirect_from:
         Adjunct Faculty (Part-time) [August 2023 – Present]<br/>
         Location: Greensboro, NC, USA <br/>
         Department Chair: <a href="https://www.linkedin.com/in/evelyn-sowells-boone-ph-d-33187010b/" target="_blank">Dr. Evelyn Sowells-Boone</a><br/>
-        Department: <a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">Computer Systems Technology (CST)</a>
+        Department: <a href="https://ncat.edu/cost/departments/computer-systems-technology/index.php" target="_blank">Computer Systems Technology (CST)</a>
       </span>
     </td>
   </tr>
