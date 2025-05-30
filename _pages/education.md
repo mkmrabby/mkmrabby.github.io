@@ -31,11 +31,11 @@ redirect_from:
     Period of Study: January 2008 - February 2013 <br/>
     Department: Electrical and Electronic Engineering (EEE)   
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://dhakacollege.edu.bd/" target="_blank"><font color="brown" size="5">RAJUK Uttara Model College</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.rajukcollege.edu.bd/" target="_blank"><font color="brown" size="5">RAJUK Uttara Model College</font></a></b></span><br/>
     Higher Secondary Certificate (HSC)<br/>
     Grade/Class: XI-XII <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.glabdhaka.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://iscm.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
     Secondary School Certificate (SSC) <br/>
     Grade/Class: II-X <br/>
 <br/>
