@@ -27,8 +27,10 @@ redirect_from:
         Graduate Research Assistant [August 2017 – December 2021]<br/>
         Location: Greensboro, NC, USA <br/>
         Supervisor: <a href="https://www.linkedin.com/in/ali-karimoddini-1506516a/" target="_blank">Dr. Ali Karimoddini</a><br/> 
-        Collaborator: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/"_blank">Dr. Mubbashar Altaf Khan</a><br/>
-        Lab: <a href="https://www.crowley.com/" target="_blank">ACCESS Lab</a>
+        Collaborators: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/" target="_blank">Dr. Mubbashar Altaf Khan</a>, 
+        <a href="https://ncat.edu/employee-bio.php?directoryID=788016678" target="_blank">Dr. Steven Xiaochun Jiang</a>
+        <br/>
+        Lab: <a href="https://www.accesslab.net/home/about" target="_blank">ACCESS Lab</a>
       </span>
     </td>
   </tr>
