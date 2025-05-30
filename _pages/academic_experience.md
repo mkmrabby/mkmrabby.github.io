@@ -8,7 +8,7 @@ redirect_from:
 ---
 <table class="table__tablenospace">
   <tr>
-    <td class="table__tablenospace"><img src='/images/NCAT.png' style='height:150px;width:150px'></td>
+    <td class="table__tablenospace"><img src='/images/NCAT.png' style='height:100px;width:100px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>North Carolina A&T State University</b></font><br/>
@@ -20,7 +20,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/ACCESSlab.png' style='height:150px;width:200px'></td>
+    <td class="table__tablenospace"><img src='/images/ACCESSlab.png' style='height:100px;width:150px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Department of Electrical & Computer Engineering, North Carolina A&T State University</b></font><br/>
