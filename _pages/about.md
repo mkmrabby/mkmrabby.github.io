@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "👋 Welcome to My Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Welcome to My Website!
-
-Hi there! I'm **Md Khurram Monir Rabby** — a passionate researcher and Senior Scientist at **FedEx Dataworks**, working at the exciting crossroads of **Robotics**, **Artificial Intelligence**, **System Automation**, and **Power Engineering**.
+I'm **Md Khurram Monir Rabby** — an engineer and researcher, currently serving as a Senior Scientist at **FedEx Dataworks**. My work lies at the dynamic intersection of **Robotics**, **Artificial Intelligence**, **System Automation**, and **Power Engineering**, where I strive to turn complex challenges into innovative solutions.
 
 This site is a window into my academic and professional journey. Here, you’ll find:
 
@@ -19,6 +17,13 @@ This site is a window into my academic and professional journey. Here, you’ll 
 - 📚 A list of my **Publications**, **Talks**, and **Services**  
 - 🎓 A snapshot of my **Education** and background  
 
+
+Feel free to browse through the sections above, and don’t hesitate to get in touch if something sparks your curiosity.
+
+Thanks for visiting!
+
+<!--
+# 👋 Welcome to My Website!
 Whether you're a fellow researcher, industry collaborator, student, or just curious — I'm glad you stopped by!
 
 Feel free to explore and connect. You can find my contact links in the sidebar or [reach out directly via email](mailto:md.rabby@fedex.com).
@@ -27,8 +32,6 @@ Feel free to explore and connect. You can find my contact links in the sidebar o
 
 _Thanks for visiting — I hope you find something that inspires or connects with you!_
 
-
-<!--
 <p align="justify">
 I am a senior scientist at <a href="https://www.fedex.com/en-us/dataworks.html">FedEx Dataworks</a>, where I specialize in developing AI-driven solutions for logistics and operational optimization. My work spans statistical modeling, machine learning, time-series forecasting, computer vision, and large-scale system integration using <a href="https://aws.amazon.com/">AWS</a>, <a href="https://azure.microsoft.com/en-us">Azure</a>, and <a href="https://www.databricks.com/">Databricks</a>. I have led the design of end-to-end solutions, including recommendation systems, root-cause diagnostics for package loss, and product variant identification, with a strong focus on deployment scalability and API-based services.
 </p>
