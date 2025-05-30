@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).-->
-<br/><br/>
+<br/>
     <span style="color:black; font-size:17px"><b><a href="https://ncat.edu/" target="_blank"><font color="brown" size="5">North Carolina A&T State University</font></a></b></span><br/>
     Doctor of Philosophy (Ph.D.) in Electrical Engineering<br/>
     Thesis Advisor: <a href="https://www.ncat.edu/employee-bio.php?directoryID=404285129" target="_blank">Dr. Ali Karimoddini</a> <br/>
