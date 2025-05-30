@@ -28,7 +28,7 @@ redirect_from:
         Data Scientist [January 2022 – May 2022]<br/>
         Location: Remote<br/>
         Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a><br/> 
-        Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Harsh Vora</a><br/>
+        Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Dr. Harsh Vora</a><br/>
         Lab: <a href="https://www.crowley.com/" target="_blank">Crowley Engineering & IT Services</a>
       </span>
     </td>
