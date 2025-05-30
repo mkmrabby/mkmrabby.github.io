@@ -84,7 +84,7 @@ redirect_from:
     <td class="table__tablenospace"><img src='/images/kepco_kps.png' style='height:150px;width:150px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>KEPCO Plant Service & Engineering Co. (KEPCO KPS) Ltd.</b></font><br/>
+        <font color="brown" size="5"><b>KEPCO KPS Ltd.</b></font><br/>
         Balance of Plant Engineer (BOPE) [September 2013 – June 2014]<br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/youngho-kim-a73a57237/">Youngho Kim</a><br/>
