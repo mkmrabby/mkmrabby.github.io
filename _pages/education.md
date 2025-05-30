@@ -11,7 +11,7 @@ redirect_from:
 <br/><br/>
     <span style="color:black; font-size:17px"><b><a href="https://ncat.edu/" target="_blank"><font color="brown" size="5">North Carolina A&T State University</font></a></b></span><br/>
     Doctor of Philosophy (Ph.D.) in Electrical Engineering<br/>
-    Period of Study: August 2017 - October 2021 <br/>
+    Period of Study: August 2017 - December 2021 <br/>
     Thesis Advisor: <a href="https://www.ncat.edu/employee-bio.php?directoryID=404285129" target="_blank">Dr. Ali Karimoddini</a> <br/>
     Thesis Title: Performance-aware Trust Modeling and Learning-enabled Control for Human-robot Collaboration<br/>    
 <br/>
