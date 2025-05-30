@@ -37,7 +37,7 @@ redirect_from:
     <td class="table__tablenospace"><img src='/images/DYversity.png' style='height:150px;width:80px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>DYversity</b></font><br/>
+        <font color="brown" size="5"><b>DIYversity</b></font><br/>
         AI Researcher & Engineer (Part-time) [January 2022 – February 2022]<br/>
         Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/renediaz-ux/" target="_blank">René Diaz</a><br/>
@@ -61,7 +61,7 @@ redirect_from:
     <td class="table__tablenospace"><img src='/images/PGCB.png' style='height:150px;width:150px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Power Grid Company of Bangladesh (PGCB) Limited</b></font><br/>
+        <font color="brown" size="5"><b>Power Grid Company of Bangladesh (PGCB) Ltd.</b></font><br/>
         Assistant Engineer [May 2017 – August 2017]<br/>
         Location: Dhaka, Bangladesh <br/>          
         Manager: <a href="https://www.linkedin.com/in/refat-bin-sayed-47029a3a/" target="_blank">Refat Bin Sayed</a><br/>
