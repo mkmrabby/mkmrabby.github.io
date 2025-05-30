@@ -12,10 +12,10 @@ I'm **Md Khurram Monir Rabby** — an engineer and researcher, currently serving
 
 This site showcases my professional journey, from industrial and academic experiences to the research projects, publications, and talks that continue to shape my work. Here, you’ll find:
 
-- 🏢 A blend of **Industrial** and **Academic** experiences  
-- 🧪 My **Research** and ongoing projects  
-- 📚 A list of my **Publications**, **Talks**, and **Services**  
+- 🏢 A blend of **Industrial** and **Academic** experiences
 - 🎓 A snapshot of my **Education** and background  
+- 🧪 My **Research** and ongoing projects  
+- 📚 A list of my **Publications**, **Talks**, **Services**, and so on
 
 Feel free to browse through the sections above, and don’t hesitate to get in touch if something sparks your curiosity.
 
