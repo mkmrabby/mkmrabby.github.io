@@ -36,7 +36,7 @@ redirect_from:
     Grade/Class: XI-XII <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.glabdhaka.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
-    Secondary School Certificate (SSC) <a href="../files/ssc_certificate.pdf">[Certificate]</a> <br/>
+    Secondary School Certificate (SSC) <br/>
     Grade/Class: II-X <br/>
 <br/>
     
