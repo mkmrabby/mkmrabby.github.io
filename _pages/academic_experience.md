@@ -53,7 +53,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-        Undergraduate Research Assistant (Part-time) [June 2011 – February 2013]<br/>
+        Undergraduate Research Assistant (Part-time) [August 2011 – February 2013]<br/>
         Location: Dhaka, Bangladesh <br/>
         Supervisor: <a href="https://eee.buet.ac.bd/people/faculty/dahc" target="_blank">Dr. Abdul Hasib Chowdhury</a>
         <br/> 
