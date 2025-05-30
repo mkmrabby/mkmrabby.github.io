@@ -25,7 +25,7 @@ redirect_from:
     <span style="color:black; font-size:17px"><b><a href="https://www.buet.ac.bd/web/#/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology (BUET)</font></a></b></span><br/>
     Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
     Thesis Advisor: <a href="https://eee.buet.ac.bd/people/faculty/dahc" target="_blank">Dr. Abdul Hasib Chowdhury</a> <br/>
-    Thesis Title: <br/>
+    Thesis Title: Voltage Collapse Mitigation and Optimization of SVC Placement in Bangladesh Power System Network<br/>
     Period of Study: January 2008 - February 2013 <br/>
     Department: Electrical and Electronic Engineering (EEE)   
 <br/>
