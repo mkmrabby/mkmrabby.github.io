@@ -27,7 +27,7 @@ redirect_from:
         Graduate Research Assistant [August 2017 – December 2021]<br/>
         Location: Greensboro, NC, USA <br/>
         Supervisor: <a href="https://www.linkedin.com/in/ali-karimoddini-1506516a/" target="_blank">Dr. Ali Karimoddini</a><br/> 
-        Collaborator: <a href="[https://www.linkedin.com/in/hbv91/" target=](https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/)"_blank">Dr. Mubbashar Altaf Khan</a><br/>
+        Collaborator: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/"_blank">Dr. Mubbashar Altaf Khan</a><br/>
         Lab: <a href="https://www.crowley.com/" target="_blank">ACCESS Lab</a>
       </span>
     </td>
