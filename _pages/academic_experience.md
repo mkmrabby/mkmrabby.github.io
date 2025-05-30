@@ -35,17 +35,16 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/ACCESSlab.png' style='height:150px;width:200px'></td>
+    <td class="table__tablenospace"><img src='/images/BUET.png' style='height:150px;width:200px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Department of Electrical & Computer Engineering, North Carolina A&T State University</b></font><br/>
-        Graduate Research Assistant [August 2017 – December 2021]<br/>
-        Location: Greensboro, NC, USA <br/>
-        Supervisor: <a href="https://www.linkedin.com/in/ali-karimoddini-1506516a/" target="_blank">Dr. Ali Karimoddini</a><br/> 
-        Collaborators: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/" target="_blank">Dr. Mubbashar Altaf Khan</a>, 
-        <a href="https://ncat.edu/employee-bio.php?directoryID=788016678" target="_blank">Dr. Steven Xiaochun Jiang</a>
-        <br/>
-        Lab: <a href="https://www.accesslab.net/home/about" target="_blank">ACCESS Lab</a>
+        <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
+        Master's Research Assistant (Part-time) [January 2015 – July 2017]<br/>
+        Location: Dhaka, Bangladesh <br/>
+        Supervisor: <a href="https://www.linkedin.com/in/mst-shamim-ara-shawkat-434b11150/" target="_blank">Dr. Mst Shamim Ara Shawkat</a>,
+        <a href="https://www.linkedin.com/in/mohammad-shah-alam-2a2406150/" target="_blank">Dr. Mohammad Shah Alam</a>
+        <br/> 
+        Lab: <a href="https://iict.buet.ac.bd/" target="_blank">Institute of Information and Communication Technology (IICT)</a>
       </span>
     </td>
   </tr>
