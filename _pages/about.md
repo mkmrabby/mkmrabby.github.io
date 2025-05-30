@@ -10,13 +10,12 @@ redirect_from:
 
 I'm **Md Khurram Monir Rabby** — an engineer and researcher, currently serving as a Senior Scientist at **FedEx Dataworks**. My work lies at the dynamic intersection of **Robotics**, **Artificial Intelligence**, **System Automation**, and **Power Engineering**, where I strive to turn complex challenges into innovative solutions.
 
-This site is a window into my academic and professional journey. Here, you’ll find:
+This site showcases my professional journey, from industrial and academic experiences to the research projects, publications, and talks that continue to shape my work. Here, you’ll find:
 
-- 🧪 My **Research** and ongoing projects  
 - 🏢 A blend of **Industrial** and **Academic** experiences  
+- 🧪 My **Research** and ongoing projects  
 - 📚 A list of my **Publications**, **Talks**, and **Services**  
 - 🎓 A snapshot of my **Education** and background  
-
 
 Feel free to browse through the sections above, and don’t hesitate to get in touch if something sparks your curiosity.
 
