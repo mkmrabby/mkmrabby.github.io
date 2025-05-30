@@ -7,7 +7,7 @@ main:
     url: /academic_experience/    
     
   - title: "Education"
-    url: /cv/
+    url: /education/
     
   - title: "Research"
     url: /research/
