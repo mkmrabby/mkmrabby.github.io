@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).
+<> You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).
 <br/><br/>
-    <span style="color:black; font-size:17px"><b><a href="https://ncat.edu/" target="_blank"><font color="brown" size="5">North Carolina A&T State University, Greesnboro</font></a></b></span><br/>
-    Doctor of Philosophy (Ph.D.) in Electrical Engineering <a href="../files/phd_certificate.pdf">[Certificate]</a> <br/>
-    Period of Study: September 2017 - October 2021 <br/>
-    CGPA: <b>3.78/4.00</b> scale <a href="../files/phd_transcript.pdf">[Transcript]</a> <br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
+    <span style="color:black; font-size:17px"><b><a href="https://ncat.edu/" target="_blank"><font color="brown" size="5">North Carolina A&T State University</font></a></b></span><br/>
+    Doctor of Philosophy (Ph.D.) in Electrical Engineering<br/>
+    Period of Study: August 2017 - October 2021 <br/>
+    Thesis Advisor: <a href="https://www.ncat.edu/employee-bio.php?directoryID=404285129" target="_blank">Dr. Ali Karimoddini</a> <br/>
+    Thesis Title: Performance-aware Trust Modeling and Learning-enabled Control for Human-robot Collaboration<br/>    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.cs.virginia.edu" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Master in Computer Science <a href="../files/ms_certificate.pdf">[Certificate]</a> <br/>
