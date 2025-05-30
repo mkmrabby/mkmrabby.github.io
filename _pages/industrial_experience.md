@@ -66,8 +66,7 @@ redirect_from:
         Location: Dhaka, Bangladesh <br/>          
         Manager: <a href="https://www.linkedin.com/in/refat-bin-sayed-47029a3a/" target="_blank">Refat Bin Sayed</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/sahbun-nur-b098258/" target="_blank">Sahbun Nur</a>, 
-        <a href="https://www.linkedin.com/in/md-zubayer-alvi-50945752/" target="_blank">Md Zubayer Alvi</a>,
-        Jamil Sir, Hasan<br/>
+        Jamil Sir<br/>
         Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a><br/>
         Assistant Engineer [June 2014 – May 2017]<br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
