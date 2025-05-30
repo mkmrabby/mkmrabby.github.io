@@ -32,12 +32,12 @@ redirect_from:
     Department: Electrical and Electronic Engineering (EEE)   
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://dhakacollege.edu.bd/" target="_blank"><font color="brown" size="5">RAJUK Uttara Model College</font></a></b></span><br/>
-    Higher Secondary Certificate (HSC) <a href="../files/hsc_certificate.pdf">[Certificate]</a> <br/>
-    GPA: <b>5.00/5.00</b> scale <br/>
+    Higher Secondary Certificate (HSC)<br/>
+    Grade/Class: XI-XII scale <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.glabdhaka.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
     Secondary School Certificate (SSC) <a href="../files/ssc_certificate.pdf">[Certificate]</a> <br/>
-    GPA: <b>5.00/5.00</b> scale <br/>
+    Grade/Class: II-X scale <br/>
 <br/>
     
     
