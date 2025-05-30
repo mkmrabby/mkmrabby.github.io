@@ -8,6 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+# 👋 Welcome to My Website!
+
+Hi there! I'm **Md Khurram Monir Rabby** — a passionate researcher and Senior Scientist at **FedEx Dataworks**, working at the exciting crossroads of **Robotics**, **Artificial Intelligence**, **System Automation**, and **Power Engineering**.
+
+This site is a window into my academic and professional journey. Here, you’ll find:
+
+- 🧪 My **Research** and ongoing projects  
+- 🏢 A blend of **Industrial** and **Academic** experiences  
+- 📚 A list of my **Publications**, **Talks**, and **Services**  
+- 🎓 A snapshot of my **Education** and background  
+
+Whether you're a fellow researcher, industry collaborator, student, or just curious — I'm glad you stopped by!
+
+Feel free to explore and connect. You can find my contact links in the sidebar or [reach out directly via email](mailto:md.rabby@fedex.com).
+
+---
+
+_Thanks for visiting — I hope you find something that inspires or connects with you!_
+
+
+<!--
 <p align="justify">
 I am a senior scientist at <a href="https://www.fedex.com/en-us/dataworks.html">FedEx Dataworks</a>, where I specialize in developing AI-driven solutions for logistics and operational optimization. My work spans statistical modeling, machine learning, time-series forecasting, computer vision, and large-scale system integration using <a href="https://aws.amazon.com/">AWS</a>, <a href="https://azure.microsoft.com/en-us">Azure</a>, and <a href="https://www.databricks.com/">Databricks</a>. I have led the design of end-to-end solutions, including recommendation systems, root-cause diagnostics for package loss, and product variant identification, with a strong focus on deployment scalability and API-based services.
 </p>
@@ -26,21 +47,6 @@ Earlier in my career, I served as an Assistant Engineer at the <a href="https://
 
 <p align="justify">
 I hold an M.Sc. in <a href="https://iict.buet.ac.bd/">Information and Communication Technology (ICT)</a> and a B.Sc. in <a href="https://eee.buet.ac.bd/">Electrical and Electronic Engineering (EEE) from BUET</a>, with research specializations in wireless power transfer, sensor networks, and power system control.
-</p>
-
-<!-- I am a senior scientist in the Applied Research on AI Applications team at NVIDIA. We work on foundation models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
--->
-
-<!-- 
-<p align="justify">
-I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and Walmart Labs during my PhD.
-</p>
--->
-<!-- 
-<p align="justify">
-  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. I like to solve problems to improve my programming skills in 
-  my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
-  <b><font color="blue">30,000+</font></b> reputation. 
 </p>
 -->
 
