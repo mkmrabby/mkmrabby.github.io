@@ -39,7 +39,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-        Master's Research Assistant (Part-time) [January 2015 – July 2017]<br/>
+        Master's Research Assistant (Part-time) [April 2014 – July 2017]<br/>
         Location: Dhaka, Bangladesh <br/>
         Supervisor: <a href="https://www.linkedin.com/in/mst-shamim-ara-shawkat-434b11150/" target="_blank">Dr. Mst Shamim Ara Shawkat</a>,
         <a href="https://www.linkedin.com/in/mohammad-shah-alam-2a2406150/" target="_blank">Dr. Mohammad Shah Alam</a>
