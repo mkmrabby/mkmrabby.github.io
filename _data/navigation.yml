@@ -23,7 +23,6 @@
 
 main:
   - title: "Professional Experience"
-    url: /professional_experience/
     children:
       - title: "Industrial Experience"
         url: /industrial_experience/
