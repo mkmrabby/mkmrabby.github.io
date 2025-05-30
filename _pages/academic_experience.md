@@ -35,7 +35,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/BUET_Name.png' style='height:120px;width:200px'></td>
+    <td class="table__tablenospace"><img src='/images/BUET_Name.png' style='height:150px;width:250px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
@@ -49,7 +49,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td class="table__tablenospace"><img src='/images/BUET_Name.png' style='height:120px;width:200px'></td>
+    <td class="table__tablenospace"><img src='/images/BUET_Name.png' style='height:150px;width:250px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
