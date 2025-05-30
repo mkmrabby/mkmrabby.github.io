@@ -44,8 +44,21 @@ redirect_from:
         Supervisor: <a href="https://www.linkedin.com/in/mst-shamim-ara-shawkat-434b11150/" target="_blank">Dr. Mst Shamim Ara Shawkat</a>,
         <a href="https://www.linkedin.com/in/mohammad-shah-alam-2a2406150/" target="_blank">Dr. Mohammad Shah Alam</a>
         <br/> 
-        Lab: <a href="https://iict.buet.ac.bd/" target="_blank">Institute of Information and Communication Technology (IICT)</a>
+        Department: <a href="https://iict.buet.ac.bd/" target="_blank">Institute of Information and Communication Technology (IICT)</a>
       </span>
     </td>
   </tr>
+  <tr>
+    <td class="table__tablenospace"><img src='/images/BUET.png' style='height:150px;width:200px'></td>
+    <td class="table__tablenospace" width="600px">
+      <span style="color:black; font-size:17px">
+        <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
+        Undergraduate Research Assistant (Part-time) [June 2011 – February 2013]<br/>
+        Location: Dhaka, Bangladesh <br/>
+        Supervisor: <a href="https://eee.buet.ac.bd/people/faculty/dahc" target="_blank">Dr. Abdul Hasib Chowdhury</a>
+        <br/> 
+        Department: <a href="https://eee.buet.ac.bd/" target="_blank">Department of Electrical and Electronic Engineering (EEE)</a>
+      </span>
+    </td>
+  </tr>  
 </table>
