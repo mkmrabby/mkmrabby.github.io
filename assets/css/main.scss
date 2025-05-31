@@ -39,3 +39,30 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// added
+
+.masthead__menu-item.dropdown {
+  position: relative;
+}
+
+.masthead__menu-item .dropdown-menu {
+  display: none;
+  position: absolute;
+  background: white;
+  min-width: 200px;
+  z-index: 1000;
+  list-style: none;
+  padding: 0;
+  border: 1px solid #ddd;
+}
+
+.masthead__menu-item.dropdown:hover .dropdown-menu,
+.masthead__menu-item.dropdown:focus-within .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  display: block;
+  padding: 0;
+}
