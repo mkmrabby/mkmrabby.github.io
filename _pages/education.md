@@ -13,6 +13,7 @@ redirect_from:
     Thesis Title: Performance-aware Trust Modeling and Learning-enabled Control for Human-robot Collaboration <br/>
     Period of Study: August 2017 - December 2021  
     Department: Electrical & Computer Engineering (ECE)   
+    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.buet.ac.bd/web/#/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology (BUET)</font></a></b></span><br/>
     Master of Science (M.Sc.) in Information and Communication Technology (ICT)<br/>
@@ -21,23 +22,26 @@ redirect_from:
     Thesis Title: A Priority Aware Scheduling Algorithm for Wireless Energy Harvesting of Sensor Nodes In Wireless Body Area Networks<br/>
     Period of Study: April 2013 - July 2017 <br/>
     Department: Institute of Information and Communication Technology (IICT)  
+    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.buet.ac.bd/web/#/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology (BUET)</font></a></b></span><br/>
     Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
     Thesis Advisor: <a href="https://eee.buet.ac.bd/people/faculty/dahc" target="_blank">Dr. Abdul Hasib Chowdhury</a> <br/>
     Thesis Title: Voltage Collapse Mitigation and Optimization of SVC Placement in Bangladesh Power System Network<br/>
     Period of Study: January 2008 - February 2013 <br/>
-    Department: Electrical and Electronic Engineering (EEE)   
+    Department: Electrical and Electronic Engineering (EEE)  
+    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.rajukcollege.edu.bd/" target="_blank"><font color="brown" size="5">RAJUK Uttara Model College</font></a></b></span><br/>
     Higher Secondary Certificate (HSC)<br/>
     Grade/Class: XI-XII <br/>
-    Period of Study: July 2005 - September 2007      
+    Period of Study: September 2005 - August 2007      
+    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://iscm.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
     Secondary School Certificate (SSC) <br/>
     Grade/Class: II-X <br/>
-    Period of Study: January 1996 - March 2005   
+    Period of Study: January 1996 - July 2005   
 <br/>
 <!-- You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).-->
     
