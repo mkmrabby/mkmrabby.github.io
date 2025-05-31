@@ -46,7 +46,7 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.schoolandcollegelistings.com/BD/Dhaka/153402241186201/Shahid-Babul-Academy" target="_blank"><font color="brown" size="5">Shahid Babul Academy</font></a></b></span><br/>
     Pre-Primary/Early Childhood Education <br/>
-    Grade/Class: Nursery (or Preschool/Pre-K) - KG (Kindergarten) <br/>
+    Grade/Class: Nursery (or Preschool/Pre-K) - Kindergarten (KG) <br/>
     Period of Study: January 1993 - July 1995 
 <!-- You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).-->
     
