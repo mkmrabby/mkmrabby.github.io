@@ -36,23 +36,23 @@ main:
     url: "/education"
     
   - title: "Publications"
-  #   url: "/research"
+    url: "/404"
 
   - title: "Talks"
-  #   url: "/research"   
+    url: "/404"  
 
   - title: "Achievements"
     children:
       - title: "Awards"
-        # url: "/industrial_experience"
+        url: "/404"
       - title: "Grants"
-        # url: "/academic_experience"        
+        url: "/404"        
       - title: "Certifications"
-        # url: "/academic_experience"  
+        url: "/404"
 
   - title: "Voluntary Activities"
     children:
       - title: "Academic Services"
-        # url: "/industrial_experience"
+        url: "/404"
       - title: "Non-academic Services"
-        # url: "/academic_experience"
+        url: "/404"
