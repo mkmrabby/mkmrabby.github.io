@@ -46,15 +46,27 @@
   position: relative;
 }
 
+// .masthead__menu-item .dropdown-menu {
+//   display: none;
+//   position: absolute;
+//   background: white;
+//   min-width: 200px;
+//   z-index: 1000;
+//   list-style: none;
+//   padding: 0;
+//   border: 1px solid #ddd;
+// }
+
 .masthead__menu-item .dropdown-menu {
   display: none;
   position: absolute;
+  top: 100%;
+  left: 0;
   background: white;
-  min-width: 200px;
   z-index: 1000;
-  list-style: none;
-  padding: 0;
-  border: 1px solid #ddd;
+  min-width: 200px;
+  /* Add box-shadow for visibility */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
 }
 
 .masthead__menu-item.dropdown:hover .dropdown-menu,
