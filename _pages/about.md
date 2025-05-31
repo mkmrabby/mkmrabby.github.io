@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /
 title: "👋 Welcome to My Website"
 excerpt: "About me"
