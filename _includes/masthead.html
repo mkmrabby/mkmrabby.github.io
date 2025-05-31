@@ -68,7 +68,7 @@
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
                 <a href="{{ link.url | relative_url }}" class="dropdown-toggle">
-                  {{ link.title }} ▼
+                  {{ link.title }} <!-- ▼ -->
                 </a>
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
