@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Professional Experience
+layout: archive
+title: "Professional Experience"
+permalink: /academic_experience/
 nav: true
 nav_order: 6
 dropdown: true
