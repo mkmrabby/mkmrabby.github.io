@@ -29,9 +29,9 @@ main:
     url: "#"
     children:
       - title: "Industrial Experience"
-        url: "/industrial-experience"
+        url: "/industrial_experience"
       - title: "Academic Experience"
-        url: "/academic-experience"
+        url: "/academic_experience"
   - title: "Education"
     url: "/education"
   - title: "Research"
