@@ -1,24 +1,38 @@
 # main links links
-main:
-  # - title: "Professional Experience"
-  #   children:
-  - title: "Industrial Experience"
-    url: /industrial_experience/
+# main:
+#   # - title: "Professional Experience"
+#   #   children:
+#   - title: "Industrial Experience"
+#     url: /industrial_experience/
     
-  - title: "Academic Experience"
-    url: /academic_experience/
+#   - title: "Academic Experience"
+#     url: /academic_experience/
 
+#   - title: "Education"
+#     url: /education/
+
+#   - title: "Research"
+#     url: /research/
+
+#   - title: "Publications"
+#     url: /publications/
+
+#   - title: "Talks"
+#     url: /talks/
+
+#   - title: "Services"
+#     url: /services/
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Professional Experience"
+    url: "#"
+    children:
+      - title: "Industrial Experience"
+        url: "/industrial-experience"
+      - title: "Academic Experience"
+        url: "/academic-experience"
   - title: "Education"
-    url: /education/
-
+    url: "/education"
   - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Services"
-    url: /services/
+    url: "/research"
