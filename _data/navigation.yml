@@ -26,7 +26,7 @@ main:
   # - title: "Home"
   #   url: "/"
   - title: "Professional Experience"
-    url: "#"
+    # url: "#"
     children:
       - title: "Industrial Experience"
         url: "/industrial_experience"
@@ -34,5 +34,6 @@ main:
         url: "/academic_experience"
   - title: "Education"
     url: "/education"
-  - title: "Research"
-    url: "/research"
+    
+  # - title: "Research"
+  #   url: "/research"
