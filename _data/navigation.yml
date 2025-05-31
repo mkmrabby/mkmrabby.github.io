@@ -35,5 +35,24 @@ main:
   - title: "Education"
     url: "/education"
     
-  # - title: "Research"
+  - title: "Publications"
   #   url: "/research"
+
+  - title: "Talks"
+  #   url: "/research"   
+
+  - title: "Achievements"
+    children:
+      - title: "Awards"
+        # url: "/industrial_experience"
+      - title: "Grants"
+        # url: "/academic_experience"        
+      - title: "Certifications"
+        # url: "/academic_experience"  
+
+  - title: "Voluntary Activities"
+    children:
+      - title: "Academic Services"
+        # url: "/industrial_experience"
+      - title: "Non-academic Services"
+        # url: "/academic_experience"
