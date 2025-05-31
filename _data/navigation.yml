@@ -23,8 +23,8 @@
 #   - title: "Services"
 #     url: /services/
 main:
-  - title: "Home"
-    url: "/"
+  # - title: "Home"
+  #   url: "/"
   - title: "Professional Experience"
     url: "#"
     children:
