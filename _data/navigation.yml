@@ -2,9 +2,9 @@
 main:
   - title: "Professional Experience"
     children:
-      - title: "Industrial Experience1"
+      - title: "Industrial Experience"
         url: /industrial_experience/
-      - title: "Academic Experience1"
+      - title: "Academic Experience"
         url: /academic_experience/
 
   - title: "Industrial Experience"
