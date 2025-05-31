@@ -1,11 +1,12 @@
 # main links links
 main:
-  - title: "Professional Experience"
-    children:
-      - title: "Industrial Experience"
-        url: /industrial_experience/
-      - title: "Academic Experience"
-        url: /academic_experience/
+  # - title: "Professional Experience"
+  #   children:
+  - title: "Industrial Experience"
+    url: /industrial_experience/
+    
+  - title: "Academic Experience"
+    url: /academic_experience/
 
   - title: "Education"
     url: /education/
@@ -21,4 +22,3 @@ main:
 
   - title: "Services"
     url: /services/
-
