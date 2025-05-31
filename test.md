@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Experience"
-permalink: /academic_experience/
+permalink: /test/
 nav: true
 nav_order: 6
 dropdown: true
