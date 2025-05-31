@@ -318,5 +318,6 @@ navigation:
 
 header:
   nav: main
+  dropdowns: true
 
 remote_theme: mmistakes/minimal-mistakes
