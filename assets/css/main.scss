@@ -1,0 +1,122 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+
+// // added 1
+
+// .masthead__menu-item.dropdown {
+//   position: relative;
+// }
+
+// // Option 1: Dropdown with side navigation
+// // .masthead__menu-item .dropdown-menu {
+// //   display: none;
+// //   position: absolute;
+// //   background: white;
+// //   min-width: 200px;
+// //   z-index: 1000;
+// //   list-style: none;
+// //   padding: 0;
+// //   border: 1px solid #ddd;
+// // }
+
+// // Option -2: Dropdown with earlier navigation
+// // .masthead__menu-item .dropdown-menu {
+// //   display: none;
+// //   position: absolute;
+// //   top: 100%;
+// //   left: 0;
+// //   background: white;
+// //   z-index: 1000;
+// //   min-width: 200px;
+// //   /* Add box-shadow for visibility */
+// //   box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+// // }
+
+// // .masthead__menu-item.dropdown:hover .dropdown-menu,
+// // .masthead__menu-item.dropdown:focus-within .dropdown-menu {
+// //   display: block;
+// // }
+
+// // .dropdown-menu li {
+// //   display: block;
+// //   padding: 0;
+// // }
+
+// added 2
+/* Dropdown support */
+.masthead__menu-item.dropdown {
+  position: relative;
+}
+
+.masthead__menu-item .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid #eaeaea;
+  z-index: 1000;
+  min-width: 200px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.masthead__menu-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  display: block;
+  white-space: nowrap;
+}
+
+.dropdown-menu li a {
+  display: block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  color: #333;
+}
+
+.dropdown-menu li a:hover {
+  background-color: #f0f0f0;
+}
+
