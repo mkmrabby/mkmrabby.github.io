@@ -1,0 +1,66 @@
+# main links links
+# main:
+#   # - title: "Professional Experience"
+#   #   children:
+#   - title: "Industrial Experience"
+#     url: /industrial_experience/
+    
+#   - title: "Academic Experience"
+#     url: /academic_experience/
+
+#   - title: "Education"
+#     url: /education/
+
+#   - title: "Research"
+#     url: /research/
+
+#   - title: "Publications"
+#     url: /publications/
+
+#   - title: "Talks"
+#     url: /talks/
+
+#   - title: "Services"
+#     url: /services/
+main:
+  # - title: "Home"
+  #   url: "/"
+  - title: "Professional Experience"
+    # url: "#"
+    children:
+      - title: "Industrial Experience"
+        url: "/industrial_experience"
+      - title: "Academic Experience"
+        url: "/academic_experience"
+        
+  - title: "Education"
+    url: "/education"
+    
+  - title: "Publications"
+    url: "/publications_lists"
+
+  - title: "Talks"  
+    children:
+      - title: "Conference Presenter"
+        url: "/conference_presenter"
+      - title: "Invited Speaker"
+        url: "/invited_speaker"    
+
+  - title: "Achievements"
+    children:
+      - title: "Awards"
+        url: "/awards_lists"
+      - title: "Grants"
+        url: "/grants_lists"        
+      - title: "Certifications"
+        url: "/404"
+
+  - title: "Voluntary Activities"
+    children:
+      - title: "Academic Services"
+        url: "/404"
+      - title: "Non-academic Services"
+        url: "/404"
+
+  - title: "News and Announcements"
+    url: "/404"
