@@ -8,6 +8,12 @@ author_profile: true
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2024</b></span> 
 <!-- background-color:#ffcccc; -->
 
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/11024856" target="_blank"><font color="Navy" size="4">Optimal DC Motor Speed Control Comparison</font></a></b></span><br/>
+Citation: Md Khurram Monir Rabby, and Asiful Islam Bhuiyan. "Optimal DC Motor Speed Control Comparison." In 2024 13th international conference on electrical and computer engineering (ICECE), pp. 131-136. IEEE, 2024.<br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/11024856" target="_blank">[Download Paper]</a> <br/>
+<span style="background-color:#cce5ff; font-size:1em;">Conference: 2024 13th International Conference on Electrical and Computer Engineering (ICECE)</span> 
+<br/>
+
 <span style="color:black; font-size:1.1em"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424005682" target="_blank"><font color="Navy" size="4">A hybrid optimization algorithm for improving load frequency control in interconnected power systems</font></a></b></span><br/>
 Citation: Iqbal, Md Shahid, Md Faiyaj Ahmed Limon, Md Monirul Kabir, Md Khurram Monir Rabby, Md Janibul Alam Soeb, and Md Fahad Jubayer. "A hybrid optimization algorithm for improving load frequency control in interconnected power systems." Expert Systems with Applications 249 (2024): 123702.<br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424005682" target="_blank">[Download Paper]</a> <br/>
