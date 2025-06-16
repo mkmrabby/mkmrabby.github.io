@@ -9,7 +9,7 @@ author_profile: true
 <!-- background-color:#ffcccc; -->
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/11024856" target="_blank"><font color="Navy" size="4">Optimal DC Motor Speed Control Comparison</font></a></b></span><br/>
-Citation: Md Khurram Monir Rabby, and Asiful Islam Bhuiyan. "Optimal DC Motor Speed Control Comparison." In 2024 13th international conference on electrical and computer engineering (ICECE), pp. 131-136. IEEE, 2024.<br/>
+Citation: Rabby, Md Khurram Monir, and Asiful Islam Bhuiyan. "Optimal DC Motor Speed Control Comparison." In 2024 13th International Conference on Electrical and Computer Engineering (ICECE), pp. 131-136. IEEE, 2024.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/11024856" target="_blank">[Download Paper]</a>
 <a href="https://youtu.be/k5upKlAYapw" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2024 13th International Conference on Electrical and Computer Engineering (ICECE)</span> 
