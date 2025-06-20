@@ -12,7 +12,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>North Carolina A&T State University</b></font><br/>
-        Adjunct Faculty (Part-time) [August 2023 – Present]<br/>
+        Adjunct Faculty (Part-time) <!--[August 2023 – Present]--><br/>
         Location: Greensboro, NC, USA <br/>
         Department Chair: <a href="https://www.linkedin.com/in/evelyn-sowells-boone-ph-d-33187010b/" target="_blank">Dr. Evelyn Sowells-Boone</a><br/>
         Department: <a href="https://ncat.edu/cost/departments/computer-systems-technology/index.php" target="_blank">Computer Systems Technology (CST)</a>
@@ -24,7 +24,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Department of Electrical & Computer Engineering, North Carolina A&T State University</b></font><br/>
-        Graduate Research Assistant [August 2017 – December 2021]<br/>
+        Graduate Research Assistant <!--[August 2017 – December 2021]--><br/>
         Location: Greensboro, NC, USA <br/>
         Supervisor: <a href="https://www.linkedin.com/in/ali-karimoddini-1506516a/" target="_blank">Dr. Ali Karimoddini</a><br/> 
         Collaborators: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/" target="_blank">Dr. Mubbashar Altaf Khan</a>, 
@@ -39,7 +39,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-        Master's Research Assistant (Part-time) [April 2014 – July 2017]<br/>
+        Master's Research Assistant (Part-time) <!--[April 2014 – July 2017]--><br/>
         Location: Dhaka, Bangladesh <br/>
         Supervisor: <a href="https://www.linkedin.com/in/mst-shamim-ara-shawkat-434b11150/" target="_blank">Dr. Mst Shamim Ara Shawkat</a>,
         <a href="https://www.linkedin.com/in/mohammad-shah-alam-2a2406150/" target="_blank">Dr. Mohammad Shah Alam</a>
@@ -53,7 +53,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-        Undergraduate Research Assistant (Part-time) [August 2011 – February 2013]<br/>
+        Undergraduate Research Assistant (Part-time) <!--[August 2011 – February 2013]--><br/>
         Location: Dhaka, Bangladesh <br/>
         Supervisor: <a href="https://eee.buet.ac.bd/people/faculty/dahc" target="_blank">Dr. Abdul Hasib Chowdhury</a>
         <br/> 
