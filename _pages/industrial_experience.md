@@ -13,7 +13,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Dataworks, FedEx</b></font><br/>
-        Senior Scientist [May 2022 – Present]<br/>
+        Senior Scientist <!--[May 2022 – Present]--><br/>
         Location: Remote <br/>
         Manager: <a href="https://www.linkedin.com/in/dave-ason-60a0109/" target="_blank">Dr. David Ason</a><br/>
         Lab: <a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">FedEx Dataworks</a>
@@ -25,7 +25,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Engineering & IT Services, Crowley</b></font><br/>
-        Data Scientist [January 2022 – May 2022]<br/>
+        Data Scientist <!--[January 2022 – May 2022]--><br/>
         Location: Remote<br/>
         Director: <a href="https://www.linkedin.com/in/irwinc/" target="_blank">Irwin Castelino</a><br/> 
         Mentor: <a href="https://www.linkedin.com/in/hbv91/" target="_blank">Dr. Harsh Vora</a><br/>
@@ -38,7 +38,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>DIYversity</b></font><br/>
-        AI Researcher & Engineer (Part-time) [January 2022 – February 2022]<br/>
+        AI Researcher & Engineer (Part-time) <!--[January 2022 – February 2022]--><br/>
         Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/renediaz-ux/" target="_blank">René Diaz</a><br/>
         Lab: <a href="https://www.f6s.com/company/diyversity" target="_blank">DYversity</a>
@@ -50,7 +50,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Omdena</b></font><br/>
-        Machine Learning Engineer (Intern) [May 2021 – July 2021]<br/>
+        Machine Learning Engineer (Intern) <!--[May 2021 – July 2021]--><br/>
         Location: Remote <br/>        
         Manager/CEO: <a href="https://www.linkedin.com/in/mitrar/" target="_blank">Rudradeb Mitra</a><br/>
         Lab: <a href="https://www.omdena.com/" target="_blank">Omdena AI Research & Development</a>
@@ -62,13 +62,13 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Power Grid Company of Bangladesh (PGCB) Ltd.</b></font><br/>
-        Assistant Engineer [May 2017 – August 2017]<br/>
+        Assistant Engineer <!--[May 2017 – August 2017]--><br/>
         Location: Dhaka, Bangladesh <br/>          
         Manager: <a href="https://www.linkedin.com/in/refat-bin-sayed-47029a3a/" target="_blank">Refat Bin Sayed</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/sahbun-nur-b098258/" target="_blank">Sahbun Nur</a>, 
         Jamil Sir<br/>
         Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a><br/>
-        Assistant Engineer [June 2014 – May 2017]<br/>
+        Assistant Engineer <!--[June 2014 – May 2017]--><br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/prodip-kumar-sutradhar-726147137/" target="_blank">Prodip Kumar Sutradhar</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/faizul-kabir-97a8571b2/" target="_blank">Faizul Kabir</a>, Md Afsar Uz Zaman Neon, 
@@ -85,7 +85,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>KEPCO KPS Ltd.</b></font><br/>
-        Balance of Plant Engineer (BOPE) [September 2013 – June 2014]<br/>
+        Balance of Plant Engineer (BOPE) <!--[September 2013 – June 2014]--><br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/youngho-kim-a73a57237/">Youngho Kim</a><br/>
         Mentor: <a href="https://www.linkedin.com/in/rokan-uddin-1373862a/" target="_blank">Rokan Uddin</a>, 
