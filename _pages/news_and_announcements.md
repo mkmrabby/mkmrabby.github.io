@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+1. <span style="color:blue">[06.2025] </span> Published paper, [Optimal DC Motor Speed Control Comparison](https://ieeexplore.ieee.org/abstract/document/11024856), is available in IEEE Explore.
+
+<!---
 News and Announcements
 ======
 
@@ -19,7 +22,7 @@ News and Announcements
 1. <span style="color:blue">[05.2024] </span> [Repoformer](https://repoformer.github.io/) got accepted at ICML 2024.
 1. <span style="color:blue">[03.2024] </span> Checkout our works: [Repoformer](https://repoformer.github.io/) and [IllusionVQA](https://illusionvqa.github.io/).
 
-<!---
+
 1. <span style="color:blue">[02.2024] </span> Two papers got accepted at LREC-COLING 2024.
 1. <span style="color:blue">[01.2024] </span> [CodeSage](https://arxiv.org/abs/2402.01935) got accepted at ICLR 2024.
 1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) got accepted at EMNLP 2023.
