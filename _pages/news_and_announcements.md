@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "News and Announcements"
 permalink: /news_and_announcements/
 author_profile: true
