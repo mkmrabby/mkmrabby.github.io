@@ -34,13 +34,13 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.rajukcollege.edu.bd/" target="_blank"><font color="brown" size="5">RAJUK Uttara Model College</font></a></b></span><br/>
     Higher Secondary Certificate (HSC)<br/>
-    Grade/Class: XI-XII <br/>
+    Grade/Class: XI-XII <!--<br/>-->
     <!--Period of Study: September 2005 - August 2007    -->  
     
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://iscm.edu.bd/" target="_blank"><font color="brown" size="5">Ideal School and College</font></a></b></span><br/>
     Secondary School Certificate (SSC) <br/>
-    Grade/Class: II-X <br/>
+    Grade/Class: II-X <!--<br/>-->
     <!--Period of Study: January 1996 - July 2005  -->
     
 <br/>
