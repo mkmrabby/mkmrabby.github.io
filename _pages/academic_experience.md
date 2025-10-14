@@ -23,13 +23,14 @@ redirect_from:
     <td class="table__tablenospace"><img src='/images/ACCESSlab.png' style='height:150px;width:200px'></td>
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
-        <font color="brown" size="5"><b>Department of Electrical & Computer Engineering, North Carolina A&T State University</b></font><br/>
+        <font color="brown" size="5"><b>North Carolina A&T State University</b></font><br/>
         Graduate Research Assistant <!--[August 2017 – December 2021]--><br/>
         Location: Greensboro, NC, USA <br/>
         Supervisor: <a href="https://www.linkedin.com/in/ali-karimoddini-1506516a/" target="_blank">Dr. Ali Karimoddini</a><br/> 
         Collaborators: <a href="https://www.linkedin.com/in/mubbashar-altaf-khan-27459630/" target="_blank">Dr. Mubbashar Altaf Khan</a>, 
         <a href="https://ncat.edu/employee-bio.php?directoryID=788016678" target="_blank">Dr. Steven Xiaochun Jiang</a>
         <br/>
+        Department: <a href="https://ncat.edu/coe/departments/ece/index.php" target="_blank">Electrical and Computer Engineering (ECE)</a><br/> 
         Lab: <a href="https://www.accesslab.net/home/about" target="_blank">ACCESS Lab</a>
       </span>
     </td>
