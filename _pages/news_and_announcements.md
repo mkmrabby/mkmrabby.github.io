@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+1. <span style="color:blue">[07.2025] </span> Accepted paper, Formal Verification of Line-following Robot Control Using Linear Temporal Logic, in [RAAICON Conference](https://raaicon.org/).
 1. <span style="color:blue">[06.2025] </span> Published paper, [Optimal DC Motor Speed Control Comparison](https://ieeexplore.ieee.org/abstract/document/11024856), is available in IEEE Explore.
 
 <!---
