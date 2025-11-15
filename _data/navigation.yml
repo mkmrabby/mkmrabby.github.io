@@ -58,7 +58,7 @@ main:
   - title: "Voluntary Activities"
     children:
       - title: "Academic Services"
-        url: "/404"
+        url: "/academic_services"
       - title: "Non-academic Services"
         url: "/404"
 
