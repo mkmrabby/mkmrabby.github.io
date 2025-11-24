@@ -105,7 +105,8 @@ Citation: Rabby, Md Khurram Monir, Mubbashar Altaf Khan, Ali Karimoddini, and St
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8914536" target="_blank"><font color="Navy" size="4">An Effective Model for Human Cognitive Performance within a Human-Robot Collaboration Framework</font></a></b></span><br/>
 Citation: Rabby, Khurram Monir, Mubbashar Khan, Ali Karimoddini, and Steven Xiaochun Jiang. "An effective model for human cognitive performance within a human-robot collaboration framework." In 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), pp. 3872-3877. IEEE, 2019.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8914536" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/8914536" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/V3l9ErtbVL4" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</span> 
 <br/>
 
