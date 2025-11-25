@@ -187,7 +187,7 @@ Citation: Rabby, Md Khurram Monir, Nahid-Al Masood, Muhammad Mobaidul Islam, and
 <br/>
 
 <span style="color:black; font-size:1.1em"><b><a href="https://d1wqtxts1xzle7.cloudfront.net/47284032/Effect_of_Integrating_PV_Generation_on_the_Load_Carrying_Capability_of_Bangladesh_Power_System-libre.pdf?1468731484=&response-content-disposition=inline%3B+filename%3DEffect_of_Integrating_PV_Generation_on_t.pdf&Expires=1748818025&Signature=g3E6CrsTv33WmVM7hcuElTpDyv-xVEwd-peo60WdBxSkGe3UWRdMNeElupGLufVXWfzyH-EaTlFP9~Hvq2CWpP4xHQucY5ZCU6da42fmDBJwDBVqeXh1lptD8hdj7y0MeFU534cjmQk1sHLqpL3GflBHsx2k9gtShxUvHdJsw1cnvHELrPkBV~SBU7bhN2N~Cqhxi8cj5gkWhMTa81GA8knZefQbQuqUreDi6YbFJjOJUNde5qCvuaceghZHo0ffvUyuOOCIjmuF0MaX3aR1Yc16jf79z1857IHzHIFzIu3FoPtt6HseMgBZHfoahRzeCmdgSygnWrCxyIV6eZQtTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank"><font color="Navy" size="4">Effect of integrating pv generation on the load carrying capability of bangladesh power system</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam Nahid-Al-Masood, and Nabeela Kauser Jeny. "Effect of integrating pv generation on the load carrying capability of bangladesh power system." Int J Energy Power 3, no. 2 (2014): 13-21.<br/>
+Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, Nahid-Al-Masood, and Nabeela Kauser Jeny. "Effect of integrating pv generation on the load carrying capability of bangladesh power system." Int J Energy Power 3, no. 2 (2014): 13-21.<br/>
 <a href="https://d1wqtxts1xzle7.cloudfront.net/47284032/Effect_of_Integrating_PV_Generation_on_the_Load_Carrying_Capability_of_Bangladesh_Power_System-libre.pdf?1468731484=&response-content-disposition=inline%3B+filename%3DEffect_of_Integrating_PV_Generation_on_t.pdf&Expires=1748818025&Signature=g3E6CrsTv33WmVM7hcuElTpDyv-xVEwd-peo60WdBxSkGe3UWRdMNeElupGLufVXWfzyH-EaTlFP9~Hvq2CWpP4xHQucY5ZCU6da42fmDBJwDBVqeXh1lptD8hdj7y0MeFU534cjmQk1sHLqpL3GflBHsx2k9gtShxUvHdJsw1cnvHELrPkBV~SBU7bhN2N~Cqhxi8cj5gkWhMTa81GA8knZefQbQuqUreDi6YbFJjOJUNde5qCvuaceghZHo0ffvUyuOOCIjmuF0MaX3aR1Yc16jf79z1857IHzHIFzIu3FoPtt6HseMgBZHfoahRzeCmdgSygnWrCxyIV6eZQtTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: International Journal of Energy and Power (IJEP)</span> 
 <br/>
@@ -197,7 +197,7 @@ Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam Nahid-Al-Masood, and 
 <br/>
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank"><font color="Navy" size="4">Reliability assessment of Bangladesh power system using segmentation method</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Peya, and Mamun Rabbani. "Reliability assessment of Bangladesh power system using segmentation method." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
+Citation:  Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Peya, and Mamun Rabbani. "Reliability assessment of Bangladesh power system using segmentation method." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2013 IEEE International Conference on Informatics, Electronics and Vision (ICIEV)</span> 
 <br/>
@@ -209,7 +209,7 @@ Citation: Rabby, Md Khurram Monir, Abdul Hasib Chowdhury, Md Ali Azamand, and Md
 <br/>
 
 <span style="color:black; font-size:1.1em"><b><a href="http://www.jeeeng.org/article/10.11648/j.jeee.20130101.13" target="_blank"><font color="Navy" size="4">An Effective Simulation Technique to Evaluate Loss of Load Expectation</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Mamun Rabbani, Mafruha Ahmed, and Proteeti Peya. "An effective simulation technique to evaluate loss of load expectation." Journal of Electrical and Electronic Engineering 1, no. 1 (2013): 29-34.<br/>
+Citation:  Nahid Al-Masood, Rabby, Md Khurram Monir, Mamun Rabbani, Mafruha Ahmed, and Proteeti Peya. "An effective simulation technique to evaluate loss of load expectation." Journal of Electrical and Electronic Engineering 1, no. 1 (2013): 29-34.<br/>
 <a href="http://www.jeeeng.org/article/10.11648/j.jeee.20130101.13" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: Journal of Electrical and Electronic Engineering</span> 
 <br/>
