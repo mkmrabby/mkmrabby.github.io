@@ -11,7 +11,7 @@ author_profile: true
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/" target="_blank"><font color="Navy" size="4">Formal Verification of Line-following Robot Control Using Linear Temporal Logic</font></a></b></span><br/>
 Citation: TBD.<br/>
 <a href="https://ieeexplore.ieee.org/" target="_blank">[Download Paper]</a>
-<a href="https://youtu.be/nyUPonB1UMM" target="_blank">[Presentation Video]</a><br/>
+<a href="https://youtu.be/KXf4OabMdsM" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2025 4<sup>th</sup> IEEE International Conference on Robotics, Automation, Artificial-intelligence and Internet-of-Things (RAAICON)</span> 
 <br/>
 
