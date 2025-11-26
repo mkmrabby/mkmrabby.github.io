@@ -198,7 +198,8 @@ Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, Nahid-Al-Masood, and
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank"><font color="Navy" size="4">Reliability assessment of Bangladesh power system using segmentation method</font></a></b></span><br/>
 Citation:  Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Peya, and Mamun Rabbani. "Reliability assessment of Bangladesh power system using segmentation method." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/F_JQCACFlfo" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2013 IEEE International Conference on Informatics, Electronics and Vision (ICIEV)</span> 
 <br/>
 
