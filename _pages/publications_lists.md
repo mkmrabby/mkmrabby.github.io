@@ -128,7 +128,8 @@ Citation: Rabby, Md Khurram Monir, Mohammad Shah Alam, and MST Shamim Ara Shawka
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8636811" target="_blank"><font color="Navy" size="4">A Modified Canny Edge Detection Algorithm for Fruit Detection & Classification</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Brinta Chowdhury, and Jung H. Kim. "A modified canny edge detection algorithm for fruit detection & classification." In 2018 10th international conference on electrical and computer engineering (ICECE), pp. 237-240. IEEE, 2018.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8636811" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/8636811" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/0ihLdO4y6pY" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2018 10<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
