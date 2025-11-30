@@ -70,8 +70,8 @@ Citation: Eshun, Robert B., Md Khurram Monir Rabby, AKM Kamrul Islam, and Marwan
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 12<sup>th</sup> ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452065" target="_blank"><font color="Navy" size="4">Epileptic seizures classification in EEG using PCA based genetic algorithm through machine learning</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, AKM Kamrul Islam, Saeid Belkasim, and Marwan U. Bikdash. "Epileptic seizures classification in EEG using PCA based genetic algorithm through machine learning." In Proceedings of the 2021 ACM southeast conference, pp. 17-24. 2021.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452065" target="_blank"><font color="Navy" size="4">Epileptic Seizures Classification in EEG Using PCA Based Genetic Algorithm Through Machine Learning</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, AKM Kamrul Islam, Saeid Belkasim, and Marwan U. Bikdash. "Epileptic Seizures Classification in EEG Using PCA Based Genetic Algorithm Through Machine Learning." In Proceedings of the 2021 ACM southeast conference, pp. 17-24. 2021.<br/>
 <a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452065" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 ACM Southeast Conference</span> 
 <br/>
@@ -175,20 +175,20 @@ Citation: Rabby, Md Khurram Monir, and Abdul Hasib Chowdhury. "Technique of opti
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2014</b></span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank"><font color="Navy" size="4">A study on low grid voltage problem near Rooppur nuclear power plant</font></a></b></span><br/>
-Citation: Chowdhury, A. Hasib, and Md Khurram Monir Rabby. "A study on low grid voltage problem near Rooppur nuclear power plant." In 8th International Conference on Electrical and Computer Engineering, pp. 289-292. IEEE, 2014.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank"><font color="Navy" size="4">A Study on Low Grid Voltage Problem Near Rooppur Nuclear Power Plant</font></a></b></span><br/>
+Citation: Chowdhury, A. Hasib, and Md Khurram Monir Rabby. "A Study on Low Grid Voltage Problem Near Rooppur Nuclear Power Plant." In 8th International Conference on Electrical and Computer Engineering, pp. 289-292. IEEE, 2014.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 8<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/document/6861686" target="_blank"><font color="Navy" size="4">Load carrying capability of renewable energy sources of Bangladesh Power System</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Nahid-Al Masood, Muhammad Mobaidul Islam, and Nabeela Kauser Jeny. "Load carrying capability of renewable energy sources of Bangladesh Power System." In 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), pp. 1-6. IEEE, 2014.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/document/6861686" target="_blank"><font color="Navy" size="4">Load Carrying Capability of Renewable Energy Sources of Bangladesh Power System</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Nahid-Al Masood, Muhammad Mobaidul Islam, and Nabeela Kauser Jeny. "Load Carrying Capability of Renewable Energy Sources of Bangladesh Power System." In 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), pp. 1-6. IEEE, 2014.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 3<sup>rd</sup> IEEE International Conference on the Developments in Renewable Energy Technology (ICDRET)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://d1wqtxts1xzle7.cloudfront.net/47284032/Effect_of_Integrating_PV_Generation_on_the_Load_Carrying_Capability_of_Bangladesh_Power_System-libre.pdf?1468731484=&response-content-disposition=inline%3B+filename%3DEffect_of_Integrating_PV_Generation_on_t.pdf&Expires=1748818025&Signature=g3E6CrsTv33WmVM7hcuElTpDyv-xVEwd-peo60WdBxSkGe3UWRdMNeElupGLufVXWfzyH-EaTlFP9~Hvq2CWpP4xHQucY5ZCU6da42fmDBJwDBVqeXh1lptD8hdj7y0MeFU534cjmQk1sHLqpL3GflBHsx2k9gtShxUvHdJsw1cnvHELrPkBV~SBU7bhN2N~Cqhxi8cj5gkWhMTa81GA8knZefQbQuqUreDi6YbFJjOJUNde5qCvuaceghZHo0ffvUyuOOCIjmuF0MaX3aR1Yc16jf79z1857IHzHIFzIu3FoPtt6HseMgBZHfoahRzeCmdgSygnWrCxyIV6eZQtTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank"><font color="Navy" size="4">Effect of integrating pv generation on the load carrying capability of bangladesh power system</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, Nahid-Al-Masood, and Nabeela Kauser Jeny. "Effect of integrating pv generation on the load carrying capability of bangladesh power system." Int J Energy Power 3, no. 2 (2014): 13-21.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://d1wqtxts1xzle7.cloudfront.net/47284032/Effect_of_Integrating_PV_Generation_on_the_Load_Carrying_Capability_of_Bangladesh_Power_System-libre.pdf?1468731484=&response-content-disposition=inline%3B+filename%3DEffect_of_Integrating_PV_Generation_on_t.pdf&Expires=1748818025&Signature=g3E6CrsTv33WmVM7hcuElTpDyv-xVEwd-peo60WdBxSkGe3UWRdMNeElupGLufVXWfzyH-EaTlFP9~Hvq2CWpP4xHQucY5ZCU6da42fmDBJwDBVqeXh1lptD8hdj7y0MeFU534cjmQk1sHLqpL3GflBHsx2k9gtShxUvHdJsw1cnvHELrPkBV~SBU7bhN2N~Cqhxi8cj5gkWhMTa81GA8knZefQbQuqUreDi6YbFJjOJUNde5qCvuaceghZHo0ffvUyuOOCIjmuF0MaX3aR1Yc16jf79z1857IHzHIFzIu3FoPtt6HseMgBZHfoahRzeCmdgSygnWrCxyIV6eZQtTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank"><font color="Navy" size="4">Effect of Integrating PV Generation on the Load Carrying Capability of Bangladesh Power System</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, Nahid-Al-Masood, and Nabeela Kauser Jeny. "Effect of Integrating PV Generation on the Load Carrying Capability of Bangladesh Power System." Int J Energy Power 3, no. 2 (2014): 13-21.<br/>
 <a href="https://d1wqtxts1xzle7.cloudfront.net/47284032/Effect_of_Integrating_PV_Generation_on_the_Load_Carrying_Capability_of_Bangladesh_Power_System-libre.pdf?1468731484=&response-content-disposition=inline%3B+filename%3DEffect_of_Integrating_PV_Generation_on_t.pdf&Expires=1748818025&Signature=g3E6CrsTv33WmVM7hcuElTpDyv-xVEwd-peo60WdBxSkGe3UWRdMNeElupGLufVXWfzyH-EaTlFP9~Hvq2CWpP4xHQucY5ZCU6da42fmDBJwDBVqeXh1lptD8hdj7y0MeFU534cjmQk1sHLqpL3GflBHsx2k9gtShxUvHdJsw1cnvHELrPkBV~SBU7bhN2N~Cqhxi8cj5gkWhMTa81GA8knZefQbQuqUreDi6YbFJjOJUNde5qCvuaceghZHo0ffvUyuOOCIjmuF0MaX3aR1Yc16jf79z1857IHzHIFzIu3FoPtt6HseMgBZHfoahRzeCmdgSygnWrCxyIV6eZQtTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: International Journal of Energy and Power (IJEP)</span> 
 <br/>
@@ -197,8 +197,8 @@ Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, Nahid-Al-Masood, and
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2013</b></span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank"><font color="Navy" size="4">Reliability assessment of Bangladesh power system using segmentation method</font></a></b></span><br/>
-Citation:  Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Peya, and Mamun Rabbani. "Reliability assessment of Bangladesh power system using segmentation method." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank"><font color="Navy" size="4">Reliability Assessment of Bangladesh Power System Using Segmentation Method</font></a></b></span><br/>
+Citation:  Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Peya, and Mamun Rabbani. "Reliability Assessment of Bangladesh Power System Using Segmentation Method." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/6572617" target="_blank">[Download Paper]</a>
 <a href="https://youtu.be/F_JQCACFlfo" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2013 IEEE International Conference on Informatics, Electronics and Vision (ICIEV)</span> 
