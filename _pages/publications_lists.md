@@ -26,8 +26,8 @@ Citation: Rabby, Md Khurram Monir, and Asiful Islam Bhuiyan. "Optimal DC Motor S
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2024 13<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424005682" target="_blank"><font color="Navy" size="4">A hybrid optimization algorithm for improving load frequency control in interconnected power systems</font></a></b></span><br/>
-Citation: Iqbal, Md Shahid, Md Faiyaj Ahmed Limon, Md Monirul Kabir, Md Khurram Monir Rabby, Md Janibul Alam Soeb, and Md Fahad Jubayer. "A hybrid optimization algorithm for improving load frequency control in interconnected power systems." Expert Systems with Applications 249 (2024): 123702.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424005682" target="_blank"><font color="Navy" size="4">A Hybrid Optimization Algorithm for Improving Load Frequency Control in Interconnected Power Systems</font></a></b></span><br/>
+Citation: Iqbal, Md Shahid, Md Faiyaj Ahmed Limon, Md Monirul Kabir, Md Khurram Monir Rabby, Md Janibul Alam Soeb, and Md Fahad Jubayer. "A Hybrid Optimization Algorithm for Improving Load Frequency Control in Interconnected Power Systems." Expert Systems with Applications 249 (2024): 123702.<br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424005682" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: Expert Systems with Applications</span> 
 <br/>
