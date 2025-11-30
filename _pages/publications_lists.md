@@ -64,8 +64,8 @@ Citation: Rabby, Md Khurram Monir, Robert B. Eshun, Saeid Belkasim, and AKM Kamr
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 4<sup>th</sup> IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3459930.3471168" target="_blank"><font color="Navy" size="4">Histological classification of non-small cell lung cancer with RNA-seq data using machine learning models</font></a></b></span><br/>
-Citation: Eshun, Robert B., Md Khurram Monir Rabby, AKM Kamrul Islam, and Marwan U. Bikdash. "Histological classification of non-small cell lung cancer with RNA-seq data using machine learning models." In Proceedings of the 12th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, pp. 1-7. 2021.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3459930.3471168" target="_blank"><font color="Navy" size="4">Histological Classification of Non-small Cell Lung Cancer with RNA-seq Data Using Machine Learning Models</font></a></b></span><br/>
+Citation: Eshun, Robert B., Md Khurram Monir Rabby, AKM Kamrul Islam, and Marwan U. Bikdash. "Histological Classification of Non-small Cell Lung Cancer with RNA-seq Data Using Machine Learning Models." In Proceedings of the 12th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, pp. 1-7. 2021.<br/>
 <a href="https://dl.acm.org/doi/abs/10.1145/3459930.3471168" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 12<sup>th</sup> ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics</span> 
 <br/>
