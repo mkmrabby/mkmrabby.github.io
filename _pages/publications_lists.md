@@ -204,14 +204,14 @@ Citation:  Rabby, Md Khurram Monir, Nahid Al-Masood, Mafruha Ahmed, Proteeti Pey
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2013 IEEE International Conference on Informatics, Electronics and Vision (ICIEV)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572615" target="_blank"><font color="Navy" size="4">Bifurcation analysis to identify voltage collapse in bangladesh power system</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Abdul Hasib Chowdhury, Md Ali Azamand, and Md Asaduzzaman Towfiq. "Bifurcation analysis to identify voltage collapse in bangladesh power system." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6572615" target="_blank"><font color="Navy" size="4">Bifurcation Analysis to Identify Voltage Collapse in Bangladesh Power System</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Abdul Hasib Chowdhury, Md Ali Azamand, and Md Asaduzzaman Towfiq. "Bifurcation Analysis to Identify Voltage Collapse in Bangladesh Power System." In 2013 International Conference on Informatics, Electronics and Vision (ICIEV), pp. 1-5. IEEE, 2013.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/6572615" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2013 IEEE International Conference on Informatics, Electronics and Vision (ICIEV)</span> 
 <br/>
 
 <span style="color:black; font-size:1.1em"><b><a href="http://www.jeeeng.org/article/10.11648/j.jeee.20130101.13" target="_blank"><font color="Navy" size="4">An Effective Simulation Technique to Evaluate Loss of Load Expectation</font></a></b></span><br/>
-Citation:  Nahid Al-Masood, Rabby, Md Khurram Monir, Mamun Rabbani, Mafruha Ahmed, and Proteeti Peya. "An effective simulation technique to evaluate loss of load expectation." Journal of Electrical and Electronic Engineering 1, no. 1 (2013): 29-34.<br/>
+Citation:  Nahid Al-Masood, Rabby, Md Khurram Monir, Mamun Rabbani, Mafruha Ahmed, and Proteeti Peya. "An Effective Simulation Technique to Evaluate Loss of Load Expectation." Journal of Electrical and Electronic Engineering 1, no. 1 (2013): 29-34.<br/>
 <a href="http://www.jeeeng.org/article/10.11648/j.jeee.20130101.13" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: Journal of Electrical and Electronic Engineering</span> 
 <br/>
@@ -220,8 +220,8 @@ Citation:  Nahid Al-Masood, Rabby, Md Khurram Monir, Mamun Rabbani, Mafruha Ahme
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2012</b></span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6317511" target="_blank"><font color="Navy" size="4">Series active power filter implementation using P-Q theory</font></a></b></span><br/>
-Citation: Islam, Arnob, Md Ahsanul Abeed, Md Khurram Monir Rabby, Md Habibur Rahaman, Araf Hossain, Rifat Al Nur, Ashfanoor Kabir, and Upal Mahbub. "Series active power filter implementation using PQ theory." In 2012 International Conference on Informatics, Electronics & Vision (ICIEV), pp. 915-918. IEEE, 2012.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/6317511" target="_blank"><font color="Navy" size="4">Series Active Power Filter Implementation Using P-Q Theory</font></a></b></span><br/>
+Citation: Islam, Arnob, Md Ahsanul Abeed, Md Khurram Monir Rabby, Md Habibur Rahaman, Araf Hossain, Rifat Al Nur, Ashfanoor Kabir, and Upal Mahbub. "Series Active Power Filter Implementation Using P-Q Theory." In 2012 International Conference on Informatics, Electronics & Vision (ICIEV), pp. 915-918. IEEE, 2012.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/6317511" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2012 IEEE International Conference on Informatics, Electronics & Vision (ICIEV)</span> 
 <br/>
