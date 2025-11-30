@@ -76,8 +76,8 @@ Citation: Rabby, Md Khurram Monir, AKM Kamrul Islam, Saeid Belkasim, and Marwan 
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 ACM Southeast Conference</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452078" target="_blank"><font color="Navy" size="4">Wavelet transform-based feature extraction approach for epileptic seizure classification</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, AKM Kamrul Islam, Saeid Belkasim, and Marwan U. Bikdash. "Wavelet transform-based feature extraction approach for epileptic seizure classification." In Proceedings of the 2021 ACM southeast conference, pp. 164-169. 2021.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452078" target="_blank"><font color="Navy" size="4">Wavelet Transform-based Feature Extraction Approach for Epileptic Seizure Classification</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, AKM Kamrul Islam, Saeid Belkasim, and Marwan U. Bikdash. "Wavelet Transform-based Feature Extraction Approach for Epileptic Seizure Classification." In Proceedings of the 2021 ACM southeast conference, pp. 164-169. 2021.<br/>
 <a href="https://dl.acm.org/doi/abs/10.1145/3409334.3452078" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 ACM Southeast Conference</span> 
 <br/>
@@ -116,8 +116,8 @@ Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, and Salman Monowar I
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2019 5<sup>th</sup> IEEE International Conference on Advances in Electrical Engineering (ICAEE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214716" target="_blank"><font color="Navy" size="4">A priority based energy harvesting scheme for charging embedded sensor nodes in wireless body area networks</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Mohammad Shah Alam, and MST Shamim Ara Shawkat. "A priority based energy harvesting scheme for charging embedded sensor nodes in wireless body area networks." PloS one 14, no. 4 (2019): e0214716.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214716" target="_blank"><font color="Navy" size="4">A Priority Based Energy Harvesting Scheme for Charging Embedded Sensor Nodes in Wireless Body Area Networks</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Mohammad Shah Alam, and MST Shamim Ara Shawkat. "A Priority Based Energy Harvesting Scheme for Charging Embedded Sensor Nodes in Wireless Body Area Networks." PloS one 14, no. 4 (2019): e0214716.<br/>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214716" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ccffcc; font-size:1em;">Journal: PloS one</span> 
 <br/>
@@ -143,8 +143,8 @@ Citation: Rabby, Md Khurram Monir, Mohammad Shah Alam, Shamim Ara Shawkat, and M
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2017 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/4730" target="_blank"><font color="Navy" size="4">Priority aware scheduling algorithm for wireless energy harvesting of sensor nodes in wireless body area networks</font></a></b></span><br/>
-Citation: Rabby, Khurram Monir. "Priority aware scheduling algorithm for wireless energy harvesting of sensor nodes in wireless body area networks." (2017).<br/>
+<span style="color:black; font-size:1.1em"><b><a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/4730" target="_blank"><font color="Navy" size="4">Priority Aware Scheduling Algorithm for Wireless Energy Harvesting of Sensor Nodes in Wireless Body Area Networks</font></a></b></span><br/>
+Citation: Rabby, Khurram Monir. "Priority Aware Scheduling Algorithm for Wireless Energy Harvesting of Sensor Nodes in Wireless Body Area Networks." (2017).<br/>
 <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/4730" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#ffe5b4; font-size:1em;">Publisher: Bangladesh University of Engineering and Technology (BUET)</span> 
 <br/>
@@ -153,14 +153,14 @@ Citation: Rabby, Khurram Monir. "Priority aware scheduling algorithm for wireles
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2016</b></span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank"><font color="Navy" size="4">Performance evaluation of saturating class - C driver circuit for inductive wireless power transfer</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Performance evaluation of saturating class-C driver circuit for inductive wireless power transfer." In 2016 9th International Conference on Electrical and Computer Engineering (ICECE), pp. 503-506. IEEE, 2016.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank"><font color="Navy" size="4">Performance Evaluation of Saturating Class - C Driver Circuit for Inductive Wireless Power Transfer</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Performance Evaluation of Saturating Class - C Driver Circuit for Inductive Wireless Power Transfer." In 2016 9th International Conference on Electrical and Computer Engineering (ICECE), pp. 503-506. IEEE, 2016.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2016 9<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank"><font color="Navy" size="4">Application of current limiting inductance effect on class - E driver circuit for inductive wireless power transfer</font></a></b></span><br/>
-Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Application of current limiting inductance effect on class-E driver circuit for inductive wireless power transfer." In 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), pp. 250-253. IEEE, 2016.<br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank"><font color="Navy" size="4">Application of Current Limiting Inductance Effect on Class - E Driver Circuit for Inductive Wireless Power Transfer</font></a></b></span><br/>
+Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Application of current limiting inductance effect on class - E driver circuit for inductive wireless power transfer." In 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), pp. 250-253. IEEE, 2016.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)</span> 
 <br/>
@@ -181,7 +181,7 @@ Citation: Chowdhury, A. Hasib, and Md Khurram Monir Rabby. "A study on low grid 
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 8<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
-<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank"><font color="Navy" size="4">Application of current limiting inductance effect on class - E driver circuit for inductive wireless power transfer</font></a></b></span><br/>
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/document/6861686" target="_blank"><font color="Navy" size="4">Load carrying capability of renewable energy sources of Bangladesh Power System</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Nahid-Al Masood, Muhammad Mobaidul Islam, and Nabeela Kauser Jeny. "Load carrying capability of renewable energy sources of Bangladesh Power System." In 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), pp. 1-6. IEEE, 2014.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a> <br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 3<sup>rd</sup> IEEE International Conference on the Developments in Renewable Energy Technology (ICDRET)</span> 
