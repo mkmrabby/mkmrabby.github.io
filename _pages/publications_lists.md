@@ -162,7 +162,8 @@ Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank"><font color="Navy" size="4">Application of Current Limiting Inductance Effect on Class - E Driver Circuit for Inductive Wireless Power Transfer</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Application of current limiting inductance effect on class - E driver circuit for inductive wireless power transfer." In 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), pp. 250-253. IEEE, 2016.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/xUSsOycUxvg" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)</span> 
 <br/>
 
