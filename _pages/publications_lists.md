@@ -155,7 +155,8 @@ Citation: Rabby, Khurram Monir. "Priority Aware Scheduling Algorithm for Wireles
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank"><font color="Navy" size="4">Performance Evaluation of Saturating Class - C Driver Circuit for Inductive Wireless Power Transfer</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Shamim Ara Shawkat, and Mohammad Shah Alam. "Performance Evaluation of Saturating Class - C Driver Circuit for Inductive Wireless Power Transfer." In 2016 9th International Conference on Electrical and Computer Engineering (ICECE), pp. 503-506. IEEE, 2016.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/7853967" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/hh4ausdVa2Q" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2016 9<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
