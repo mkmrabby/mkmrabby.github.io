@@ -139,8 +139,9 @@ Citation: Rabby, Md Khurram Monir, Brinta Chowdhury, and Jung H. Kim. "A modifie
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8010571" target="_blank"><font color="Navy" size="4">A Scheduling Scheme for Efficient Wireless Charging of Sensor Nodes in WBAN</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Mohammad Shah Alam, Shamim Ara Shawkat, and Mohammad A. Hoque. "A scheduling scheme for efficient wireless charging of sensor nodes in WBAN." In 2017 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), pp. 31-36. IEEE, 2017.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8010571" target="_blank">[Download Paper]</a> <br/>
-<span style="background-color:#cce5ff; font-size:1em;">Conference: 2017 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</span> 
+<a href="https://ieeexplore.ieee.org/abstract/document/8010571" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/WnuLgJa4dn4" target="_blank">[Presentation Video]</a><br/>
+<span style="background-color:#cce5ff; font-size:1em;">Conference: 2017 2<sup>nd</sup> IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</span> 
 <br/>
 
 <span style="color:black; font-size:1.1em"><b><a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/4730" target="_blank"><font color="Navy" size="4">Priority Aware Scheduling Algorithm for Wireless Energy Harvesting of Sensor Nodes in Wireless Body Area Networks</font></a></b></span><br/>
