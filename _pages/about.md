@@ -20,7 +20,6 @@ This site showcases my professional journey, from industrial and academic experi
 Feel free to browse through the sections above, and don’t hesitate to get in touch if something sparks your curiosity.
 
 Thank you for visiting!
-<p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmkmrabby.github.io&count_bg=%230e75b6&title_bg=%23555555&title=Visitors&edge_flat=true"> </p>
 
 <!--
 # 👋 Welcome to My Website!
