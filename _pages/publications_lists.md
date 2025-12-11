@@ -112,7 +112,8 @@ Citation: Rabby, Khurram Monir, Mubbashar Khan, Ali Karimoddini, and Steven Xiao
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/8975582" target="_blank"><font color="Navy" size="4">A Review of IoT Application in a Smart Traffic Management System</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Muhammad Mobaidul Islam, and Salman Monowar Imon. "A review of IoT application in a smart traffic management system." In 2019 5th International Conference on Advances in Electrical Engineering (ICAEE), pp. 280-285. IEEE, 2019.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8914536" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/8914536" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/_TY6BIdSZb4" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2019 5<sup>th</sup> IEEE International Conference on Advances in Electrical Engineering (ICAEE)</span> 
 <br/>
 
