@@ -181,7 +181,8 @@ Citation: Rabby, Md Khurram Monir, and Abdul Hasib Chowdhury. "Technique of opti
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank"><font color="Navy" size="4">A Study on Low Grid Voltage Problem Near Rooppur Nuclear Power Plant</font></a></b></span><br/>
 Citation: Chowdhury, A. Hasib, and Md Khurram Monir Rabby. "A Study on Low Grid Voltage Problem Near Rooppur Nuclear Power Plant." In 8th International Conference on Electrical and Computer Engineering, pp. 289-292. IEEE, 2014.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/7027010" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/DMm-8LZVlhI" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 8<sup>th</sup> IEEE International Conference on Electrical and Computer Engineering (ICECE)</span> 
 <br/>
 
