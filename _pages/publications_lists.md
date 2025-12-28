@@ -189,7 +189,8 @@ Citation: Chowdhury, A. Hasib, and Md Khurram Monir Rabby. "A Study on Low Grid 
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/document/6861686" target="_blank"><font color="Navy" size="4">Load Carrying Capability of Renewable Energy Sources of Bangladesh Power System</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Nahid-Al Masood, Muhammad Mobaidul Islam, and Nabeela Kauser Jeny. "Load Carrying Capability of Renewable Energy Sources of Bangladesh Power System." In 2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET), pp. 1-6. IEEE, 2014.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/8009129" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/c63wIbTLIMk" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2014 3<sup>rd</sup> IEEE International Conference on the Developments in Renewable Energy Technology (ICDRET)</span> 
 <br/>
 
