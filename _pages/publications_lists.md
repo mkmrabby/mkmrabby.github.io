@@ -54,7 +54,8 @@ Citation: Rabby, Md Khurram Monir, Ali Karimoddini, Mubbashar Altaf Khan, and St
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/9723666" target="_blank"><font color="Navy" size="4">Time-frequency Based EEG Motor Imagery Signal Classification with Deep Learning Networks</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Robert B. Eshun, Saeid Belkasim, and AKM Kamrul Islam. "Time-frequency based EEG motor imagery signal classification with deep learning networks." In 2021 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE), pp. 133-134. IEEE, 2021.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/9723666" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/9723666" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/x1Gudp3f06A" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 IEEE 4<sup>th</sup> International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)</span> 
 <br/>
 
