@@ -60,7 +60,8 @@ Citation: Rabby, Md Khurram Monir, Robert B. Eshun, Saeid Belkasim, and AKM Kamr
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/9723687" target="_blank"><font color="Navy" size="4">Epileptic Seizure Detection Using EEG Signal Based LSTM Models</font></a></b></span><br/>
 Citation: Rabby, Md Khurram Monir, Robert B. Eshun, Saeid Belkasim, and AKM Kamrul Islam. "Epileptic seizure detection using eeg signal based lstm models." In 2021 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE), pp. 131-132. IEEE, 2021.<br/>
-<a href="https://ieeexplore.ieee.org/abstract/document/9723687" target="_blank">[Download Paper]</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/9723687" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/ZPVHZhq7kVg" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2021 4<sup>th</sup> IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)</span> 
 <br/>
 
