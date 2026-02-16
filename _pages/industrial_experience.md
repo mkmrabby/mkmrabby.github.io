@@ -71,7 +71,8 @@ redirect_from:
         Assistant Engineer <!--[June 2014 – May 2017]--><br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/prodip-kumar-sutradhar-726147137/" target="_blank">Prodip Kumar Sutradhar</a><br/>
-        Mentor(s)/Collaborator(s): <a href="https://www.linkedin.com/in/faizul-kabir-97a8571b2/" target="_blank">Faizul Kabir</a>, Md Afsar Uz Zaman Neon, 
+        Mentor(s)/Collaborator(s): <a href="https://www.linkedin.com/in/faizul-kabir-97a8571b2/" target="_blank">Faizul Kabir</a>, 
+        <a href="https://www.linkedin.com/in/m-afsar-hossain/" target="_blank">Afsar Hossain</a>, 
         <a href="https://www.linkedin.com/in/asaduzzamanpgcb/" target="_blank">Asaduzzaman Asad</a>,
         <a href="https://www.linkedin.com/in/mohammad-shariful-alam-70b58235/" target="_blank">Mohammad Shariful Alam</a>,
         <a href="https://www.linkedin.com/in/md-zakaria-0a56691b2/" target="_blank">Md Zakaria</a>,        
