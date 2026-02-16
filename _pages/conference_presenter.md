@@ -5,6 +5,13 @@ permalink: /conference_presenter/
 author_profile: true
 ---
 <br/>
+<span style="font-size:1.25em; color:brown;"><b>Academic Year: 2025</b></span> 
+
+<span style="color:black; font-size:1.1em"><b><font color="Navy" size="4">Topic: Formal Verification of Line-following Robot Control Using Linear Temporal Logic</font></b></span><br/>
+Venue: IEEE International Conference on Robotics, Automation, Artificial-Intelligence and Internet-of-Things (RAAICON) (2025), MIST, Mirpur Cantonment, Dhaka, Bangladesh (Virtual).
+<br/>
+
+<br/>
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2020</b></span> 
 
 <span style="color:black; font-size:1.1em"><b><font color="Navy" size="4">Topic: Modeling of Trust Within a Human-Robot Collaboration Framework</font></b></span><br/>
