@@ -8,7 +8,11 @@ author_profile: true
 <span style="font-size:1.25em; color:brown;"><b>Academic Role: Reviewer</b></span> 
 <!-- background-color:#ffcccc; -->
 
+<span style="color:blue">[2026] </span><span style="background-color:#ccffcc; font-size:1em;">Journal:</span> Artificial Intelligence Review
+<br/>
 <span style="color:blue">[2025] </span><span style="background-color:#cce5ff; font-size:1em;">Conference:</span> 2026 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Edinburgh, Scotland, UK
+<br/>
+<span style="color:blue">[2025] </span><span style="background-color:#ccffcc; font-size:1em;">Journal:</span> Transactions on Pattern Analysis and Machine Intelligence 
 <br/>
 
 <br/>
