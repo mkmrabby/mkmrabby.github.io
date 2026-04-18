@@ -12,7 +12,7 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>North Carolina A&T State University</b></font><br/>
-        Adjunct Faculty (Part-time) <!--[August 2023 – Present]--><br/>
+        Adjunct Faculty / Course Intructor (Part-time) <!--[August 2023 – Present]--><br/>
         Location: Greensboro, NC, USA <br/>
         Department Chair: <a href="https://www.linkedin.com/in/evelyn-sowells-boone-ph-d-33187010b/" target="_blank">Dr. Evelyn Sowells-Boone</a><br/>
         Department: <a href="https://ncat.edu/cost/departments/computer-systems-technology/index.php" target="_blank">Computer Systems Technology (CST)</a>
