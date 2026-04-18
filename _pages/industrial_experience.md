@@ -13,7 +13,12 @@ redirect_from:
     <td class="table__tablenospace" width="600px">
       <span style="color:black; font-size:17px">
         <font color="brown" size="5"><b>Dataworks, FedEx</b></font><br/>
-        Senior Scientist <!--[May 2022 – Present]--><br/>
+        Lead Scientist <!--[April 16, 2026 – Present]--><br/>
+        Location: Remote <br/>
+        Manager: <a href="https://www.linkedin.com/in/dave-ason-60a0109/" target="_blank">Dr. David Ason</a><br/>
+        Department/Divison: <a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">FedEx Dataworks</a><br/>
+        <br/>
+        Senior Scientist <!--[May 16, 2022 – April 15, 2026]--><br/>
         Location: Remote <br/>
         Manager: <a href="https://www.linkedin.com/in/dave-ason-60a0109/" target="_blank">Dr. David Ason</a><br/>
         Department/Divison: <a href="https://www.fedex.com/en-us/dataworks.html" target="_blank">FedEx Dataworks</a>
@@ -68,6 +73,7 @@ redirect_from:
         Mentor(s)/Collaborator(s): <a href="https://www.linkedin.com/in/sahbun-nur-b098258/" target="_blank">Sahbun Nur</a>, 
         Jamil Sir<br/>
         Department/Divison: <a href="https://pgcb.gov.bd/" target="_blank">Sub-station Design and Quality Control (SSD&Q), PGCB Ltd</a><br/>
+        <br/>
         Assistant Engineer <!--[June 2014 – May 2017]--><br/>
         Location: Meghnaghat, Narayangonj, Bangladesh <br/>         
         Manager: <a href="https://www.linkedin.com/in/prodip-kumar-sutradhar-726147137/" target="_blank">Prodip Kumar Sutradhar</a><br/>
