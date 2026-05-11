@@ -9,7 +9,7 @@ author_profile: true
 <!-- background-color:#ffcccc; -->
 
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/document/11502046" target="_blank"><font color="Navy" size="4">Formal Verification of Line-following Robot Control Using Linear Temporal Logic</font></a></b></span><br/>
-Citation: M. K. M. Rabby, M. F. Jubayer, A. I. Bhuiyan and Z. Mahmud, "Formal Verification of Line-Following Robot Control Using Linear Temporal Logic," 2025 IEEE 4th International Conference on Robotics, Automation, Artificial-Intelligence and Internet-of-Things (RAAICON), Dhaka, Bangladesh, 2025, pp. 621-624.<br/>
+Citation: Rabby, Md Khurram Monir, Md. Fahad Jubayer, Asiful Islam Bhuiyan, and Zakaria Mahmud, "Formal Verification of Line-Following Robot Control Using Linear Temporal Logic," 2025 IEEE 4th International Conference on Robotics, Automation, Artificial-Intelligence and Internet-of-Things (RAAICON), Dhaka, Bangladesh, 2025, pp. 621-624.<br/>
 <a href="https://ieeexplore.ieee.org/document/11502046" target="_blank">[Download Paper]</a>
 <a href="https://youtu.be/KXf4OabMdsM" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2025 4<sup>th</sup> IEEE International Conference on Robotics, Automation, Artificial-intelligence and Internet-of-Things (RAAICON)</span> 
