@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+1. <span style="color:blue">[05.2026] </span> Published paper, [A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models](https://doi.org/10.1039/D6FB00010J), is available in Royal Society of Chemistry Journal, Sustainable Food Technology.
+1. <span style="color:blue">[05.2026] </span> Accepted paper, A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models, in [Royal Society of Chemistry Journal, Sustainable Food Technology](https://pubs.rsc.org/en/journals/journalissues/fb#!recentarticles&adv).
 1. <span style="color:blue">[05.2026] </span> Published paper, [Formal Verification of Line-Following Robot Control Using Linear Temporal Logic](https://ieeexplore.ieee.org/document/11502046), is available in IEEE Explore.
 1. <span style="color:blue">[09.2025] </span> Presented paper, Formal Verification of Line-following Robot Control Using Linear Temporal Logic, in [RAAICON Conference](https://raaicon.org/technical-program-schedule-details/).
 1. <span style="color:blue">[07.2025] </span> Accepted paper, Formal Verification of Line-following Robot Control Using Linear Temporal Logic, in [RAAICON Conference](https://raaicon.org/).
