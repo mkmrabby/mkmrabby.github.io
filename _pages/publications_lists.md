@@ -4,6 +4,17 @@ title: "Publications"
 permalink: /publications_lists/
 author_profile: true
 ---
+
+<br/>
+<span style="font-size:1.25em; color:brown;"><b>Academic Year: 2026</b></span> 
+<br/>
+
+<span style="color:black; font-size:1.1em"><b><a href="https://doi.org/10.1039/D6FB00010J" target="_blank"><font color="Navy" size="4">A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models</font></a></b></span><br/>
+Citation: Jubayer, Md Fahad, Mahmud Hasan, Md Khurram Monir Rabby, Md Mozammel Hoque, Md Masudur Rahman, and Md Abdur Rashid Sarker. "A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models." Sustainable Food Technology (2026).<br/>
+<a href="https://doi.org/10.1039/D6FB00010J" target="_blank">[Download Paper]</a> <br/>
+<span style="background-color:#ccffcc; font-size:1em;">Journal: Sustainable Food Technology, Royal Society of Chemistry</span> 
+<br/>
+
 <br/>
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2025</b></span> 
 <!-- background-color:#ffcccc; -->
