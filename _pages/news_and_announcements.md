@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+1. <span style="color:blue">[06.2026] </span> Accepted paper,  Development and Experimental Validation of Kinematic and Dynamic Models for a Humanoid Robot., in [IEEE International Conference on Systems, Man, and Cybernetics (SMC)](https://www.ieeesmc2026.org/).
+1. <span style="color:blue">[06.2026] </span> Accepted paper,  Empirical Study of Human Trust and Performance Dynamics in a Human-Multi-Robot Collaborative Environment, in [IEEE International Conference on Systems, Man, and Cybernetics (SMC)](https://www.ieeesmc2026.org/).
 1. <span style="color:blue">[05.2026] </span> Published paper, [A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models](https://doi.org/10.1039/D6FB00010J), is available in Sustainable Food Technology, Royal Society of Chemistry.
 1. <span style="color:blue">[05.2026] </span> Accepted paper, A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models, in [Sustainable Food Technology, Royal Society of Chemistry](https://pubs.rsc.org/en/journals/journalissues/fb#!recentarticles&adv).
 1. <span style="color:blue">[05.2026] </span> Published paper, [Formal Verification of Line-Following Robot Control Using Linear Temporal Logic](https://ieeexplore.ieee.org/document/11502046), is available in IEEE Explore.
