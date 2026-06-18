@@ -9,6 +9,20 @@ author_profile: true
 <span style="font-size:1.25em; color:brown;"><b>Academic Year: 2026</b></span> 
 <br/>
 
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank"><font color="Navy" size="4">Development and Experimental Validation of Kinematic and Dynamic Models for a Humanoid Robot</font></a></b></span><br/>
+Citation:TBD.<br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/6xxCJXGackw" target="_blank">[Presentation Video]</a><br/>
+<span style="background-color:#cce5ff; font-size:1em;">Conference: 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</span> 
+<br/>
+
+<span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank"><font color="Navy" size="4">Empirical Study of Human Trust and Performance Dynamics in a Human-Multi-Robot Collaborative Environment</font></a></b></span><br/>
+Citation: TBD.<br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank">[Download Paper]</a>
+<a href="https://youtu.be/6xxCJXGackw" target="_blank">[Presentation Video]</a><br/>
+<span style="background-color:#cce5ff; font-size:1em;">Conference: 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</span> 
+<br/>
+
 <span style="color:black; font-size:1.1em"><b><a href="https://doi.org/10.1039/D6FB00010J" target="_blank"><font color="Navy" size="4">A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models</font></a></b></span><br/>
 Citation: Jubayer, Md Fahad, Mahmud Hasan, Md Khurram Monir Rabby, Md Mozammel Hoque, Md Masudur Rahman, and Md Abdur Rashid Sarker. "A novel, non-destructive approach for real-time detection of starch gelatinization using YOLO-based deep learning models." Sustainable Food Technology (2026).<br/>
 <a href="https://doi.org/10.1039/D6FB00010J" target="_blank">[Download Paper]</a> <br/>
