@@ -12,7 +12,7 @@ author_profile: true
 <span style="color:black; font-size:1.1em"><b><a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank"><font color="Navy" size="4">Development and Experimental Validation of Kinematic and Dynamic Models for a Humanoid Robot</font></a></b></span><br/>
 Citation:TBD.<br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/9283228" target="_blank">[Download Paper]</a>
-<a href="https://youtu.be/35_evS0IuVU" target="_blank">[Presentation Video]</a><br/>
+<a href="https://youtu.be/CxIh7nmYrps" target="_blank">[Presentation Video]</a><br/>
 <span style="background-color:#cce5ff; font-size:1em;">Conference: 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</span> 
 <br/>
 
