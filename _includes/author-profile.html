@@ -125,8 +125,14 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" target="_blank"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
       {% if author.sciprofiles %}
-        <li><a href="{{ author.sciprofiles }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> sciprofiles</a></li>
-{% endif %}
+        <li>
+          <a href="{{ author.sciprofiles }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ '/images/sciprofiles.png' | relative_url }}" alt="" aria-hidden="true"
+                 style="width:1em; height:1em; object-fit:contain; vertical-align:-0.15em; margin-right:0.25em;">
+            SciProfiles
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 </div>
